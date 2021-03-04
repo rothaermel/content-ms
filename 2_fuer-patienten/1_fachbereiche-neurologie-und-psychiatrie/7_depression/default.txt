@@ -1,0 +1,229 @@
+Title: Depression
+
+----
+
+Contentelements: 
+
+- 
+  headline: Depression
+  hideheadline: ""
+  menuhide: ""
+  keyvisual2:
+    - depression-md-xl.jpg
+  keyvisual3:
+    - depression-md-xl.jpg
+  keyvisualsettings: ""
+  text: ""
+  _key: keyvisual
+  _uid: keyvisual_1552403934801_2897
+- 
+  headline: Allgemeines
+  hideheadline: 'true'
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: |
+        Umgangssprachlich wird heute schnell der Begriff »depressiv« verwendet, um eine niedergedrückte Stimmungslage zu beschreiben. Eine klinische Depression entzieht sich jedoch der Beeinflussung durch Willenskraft oder äußeren Faktoren. »Hab doch einfach ein wenig mehr Spaß!« hilft also den Betroffenen nicht – im Gegenteil: Die Kluft zwischen den »Normalen« vergrößert sich noch.
+        
+        Etwa 6,2 Millionen Menschen in Deutschland leiden an einer Form der Depression. Gleichzeitig ist die Dunkelziffer bis heute enorm hoch. Immer noch hindern Scham oder falsch verstandener »Durchhaltewille« Betroffene daran, sich an einen Haus- oder Facharzt zu wenden.
+      textclosed: |
+        **Dies ist besonders tragisch, da heute für praktisch jede Form der Depression evidenzbasierte Behandlungsmethoden bekannt sind – und verfügbar.** Unserem Team bei mind ist es ein besonderes Anliegen, Ihnen bei Fragen zur Depression zur Seite zu stehen.
+        
+        Zu Beginn steht auch hier eine sorgfältige **Diagnose:** In Abgrenzung zu allgemeiner Niedergeschlagenheit gibt es klare Kriterien und Richtlinien für die Diagnose Depression. Wie bei anderen Erkrankungen auch, setzt die Diagnose bei einer ausführlichen »Bestandsaufnahme« (der Anamnese) an: der Vorgeschichte des Patienten, seiner aktuellen Lebenssituation sowie des körperlichen und psychischen Zustandes. Für eine zuverlässige Diagnose »Depression« müssen zudem organische Grunderkrankungen ausgeschlossen und andere neurologische Leiden davon abgegrenzt werden. Migräne, Schilddrüsenerkrankungen oder Störungen der Nebennierenfunktion sind hierzu zu zählen. Bei älteren Patienten ist ein Ausschluss einer Demenz-Erkrankung wichtig.
+        Das Diagnosesystem ICD-10 der WHO unterscheidet in Abhängigkeit von Anzahl, Schwere und Dauer bestimmter Leitsymptome, ob z.B. eine leichte, mittlere oder schwere Depression vorliegt. **Erst auf Basis der gesicherten Diagnose wird Ihr betreuender Arzt eine für Sie passende Therapie vorschlagen.**
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553588291541_5540
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-hirt@2.jpg
+      margintop: 0
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1553588293939_5709
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Dr. med. Valerie Hirt**
+        Fachärztin für Psychiatrie & Psychotherapie
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1580894446006_12944'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553588298021_5775
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553588274816_5408
+- 
+  headline: Therapie
+  hideheadline: ""
+  keyvisual2:
+    - 4224-mfa-dialog-lg-xl.jpg
+  keyvisual2mobile:
+    - 4224-mfa-dialog-xs-md.jpg
+  keyvisual2_mobile:
+    - 4224-mfa-dialog-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553588467937_6147
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: ""
+      textopen: 'Studien belegen, dass mit einer individuell austarierten Therapie gegen die Depression den Betroffenen sehr schnell geholfen werden kann. Daher bieten wir bei mind neben einer grundlegenden Diagnostik auch direkt die Möglichkeit, **verschiedene Therapiebausteine wahrzunehmen.**'
+      textclosed: |
+        Entsprechend der medizinischen Leitlinien verfolgen wir bei mind ein kombiniertes Konzept aus medikamentöser Therapie und kognitiver Verhaltenstherapie, wenn eine schwere Depression vorliegt.
+        
+        Bei der **medikamentösen Therapie** setzt man unterschiedliche Antidepressiva ein, die der körperlichen und seelischen Konstitution des Patienten am ehesten entsprechen. Antidepressiva beeinflussen die Wirkungsweise bestimmter Botenstoffe im Gehirn und können so entstandene Funktionsstörungen ausgleichen. So kann schonend z.B. auch Schlafstörungen  und anderen Begleiterscheinungen der Depression entgegengewirkt werden.
+        
+        Die **kognitive Verhaltenstherapie **ermöglicht es den Betroffenen, durch ganz konkrete Verhaltensmodifikationen Risikofaktoren zu erkennen und das Spektrum der eigenen Reaktionsmöglichkeiten zu erweitern. Damit kann in sehr kurzer Zeit erreicht werden, dass der Patient in schwierigen Lebenssituationen anders handeln kann und somit nicht nur aus der »Depressionsspirale« heraustritt, sondern auch eine positive Erfahrung von Selbstwirksamkeit machen kann. **Sprechen Sie mit unserem Team, was für Sie die beste Lösung ist!**
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553588530997_6463
+  repeater2:
+    - 
+      offset: offset
+      color: dark
+      headline: ""
+      stretch: ""
+      textopen: |
+        *»Depressionen gehören zu den komplexesten Krankheiten überhaupt. Daher ist unser Ansatz ›Medizin individuell – mind‹ gerade bei depressiven Patienten besonders wichtig.«*
+        
+        
+        <color><sm><b>Dr. Urda Käfer,</b> Fachärztin für Psychiatrie & Psychotherapie</sm></color>
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553588535543_6632
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553588525878_6332
+- 
+  headline: Burnout
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: 'true'
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: |
+        Unter dem Begriff »Burnout« fassen Mediziner heute depressive Zustände zusammen, die am ehesten auf Grund hoher Lebens- und Berufs-Belastung entstehen. Treffend für die Symptomatik ist auch die Bezeichnung »Erschöpfungsdepression«, da kein  klarer Katalog an Diagnosekriterien existiert.
+        Das Bundesministerium für Gesundheit schätzt die pro Jahr durch depressive Erkrankungsfälle anfallenden Arbeitsunfähigkeitstage auf etwa 11 Millionen.
+      textclosed: 'In der Bevölkerung und auch unter Medizinern ist die Sensibilität für seelische Erkrankungen gestiegen. Wurde bei Beschwerden früher hauptsächlich nach körperlichen Ursachen gesucht, rücken psychische Belastungen immer stärker in den Fokus und werden konkret abgefragt. Dies ist gerade für eine klare Definition der Burnout-Risiken besonders entscheidend: denn nur so können schon vom Arbeitgeber Präventionsmaßnahmen eingeleitet werden, die z.B. helfen, dauerhaftes Leiden oder lange Klinikaufenthalte zu vermeiden: im Interesse des Patienten.  Das Team von mind möchte nicht nur für das umfassende Thema Burnout sensibilisieren, sondern mit konkreten Maßnahmen unterstützen. Sprechen Sie mit uns!'
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1555595223486_16179
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-kafer@2.jpg
+      margintop: 0
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1555595194971_15872
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Dr. med. Urda Käfer**
+        Fachärztin für Neurologie
+        
+        *Engagiert sich in der Behandlung des Burnout-Syndroms*
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1553272658424_3772'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1555595207547_16010
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1555595174264_15705
+- 
+  headline: Depression bei MS
+  hideheadline: ""
+  keyvisual2:
+    - 4798-dr-kaefer-lg-xl.jpg
+  keyvisual2mobile:
+    - 4798-dr-kaefer-xs-md.jpg
+  keyvisual2_mobile: [ ]
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553588941596_8021
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: offset
+      color: dark
+      headline: ""
+      stretch: ""
+      textopen: |
+        **Depressionen bei Multipler Sklerose**
+        
+        Multiple Sklerose geht oft mit einer extremen psychischen Belastung einher. Stimmungs-Schwankungen, Antriebslosigkeit oder Konzentrationsschwierigkeiten zählen viele Patienten zu den typischen Begleiterscheinungen ihrer Erkrankung. All diese Erscheinungen können jedoch Faktoren einer Depression sein, die es zu behandeln gilt! Profitieren Sie von unserer weitreichenden Erfahrung aus der Behandlung von bis heute über 5.000 MS-Patienten. **Unser interdisziplinäres Ärzteteam entwickelt gerne mit Ihnen im Gespräch den für Sie passenden Therapieansatz!**
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553589185925_9213
+  repeater2:
+    - 
+      headline: Weiterführende Themen
+      offset: ""
+      color: bright
+      stretch: ""
+      eventlist:
+        - 
+          title: Multiple Sklerose
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/multiple-sklerose
+          _key: menupoints
+          _uid: menupoints_1553589201731_9456
+        - 
+          title: Termine
+          target: '/die-praxis/service-and-kontakt#subheadline_1554132065651_62222'
+          _key: menupoints
+          _uid: menupoints_1553589228395_9615
+      _key: menubox
+      _uid: menubox_1553589189714_9386
+  _key: twocol
+  _uid: twocol_1553589175398_9093
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: '<br><br><br>'
+  _key: plaintext
+  _uid: plaintext_1555589848380_36711

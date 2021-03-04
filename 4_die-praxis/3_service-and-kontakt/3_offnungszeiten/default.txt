@@ -1,0 +1,66 @@
+Title: Anfahrt
+
+----
+
+Contentelements: 
+
+- 
+  headline: Anfahrt
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1553481359940_1729
+- 
+  headline: ""
+  _key: googlemaps
+  _uid: googlemaps_1553481291011_1600
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: left
+      textopen: |
+        **Wir sind sehr gut sowohl mit dem Pkw als auch mit öffentlichen Verkehrsmitteln zu erreichen.**
+        
+        **Mit öffentlichen Verkehrsmitteln:**
+        Vom Stuttgarter Hauptbahnhof erreichen Sie uns mit der U5, U6, U7, U15 und der Buslinie 41. Je nach Verbindung ist der Charlottenplatz oder das Olgaeck der Praxis am nächsten.
+        
+        **Für Ihre Anfahrt mit dem Pkw nutzen Sie gerne unsere obenstehende Karte!**
+        <br>
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1554235372300_9124
+    - 
+      title: Parkempfehlung
+      inline: inline
+      link: >
+        https://www.google.de/maps/place/Parkhaus+Bohnenviertel/@48.774715,9.1825735,19z/data=!4m5!3m4!1s0x4799c4b53c11c469:0xd212849757faba03!8m2!3d48.774713!4d9.1831219
+      bgcolor: lightblue
+      repeater: [ ]
+      _key: modalbox
+      _uid: modalbox_1556263313409_1062
+  repeater2: [ ]
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1554235369488_8992
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: '<br><br><br><br>'
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1554248994807_39986

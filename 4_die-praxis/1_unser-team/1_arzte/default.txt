@@ -1,0 +1,600 @@
+Title: Ärzte
+
+----
+
+Contentelements: 
+
+- 
+  headline: 'Wir sind: mind'
+  hideheadline: ""
+  menuhide: nothide
+  keyvisual2:
+    - 4217-kv-praxis-team-lg-xl.jpg
+  keyvisual3:
+    - 4217-kv-praxis-team-xs-md.jpg
+  keyvisualsettings: nofullscreen
+  _key: keyvisual
+  _uid: keyvisual_1553875309929_11728
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: activ
+  textbox: 'Unser breit aufgestelltes Team arbeitet schon seit etlichen Jahren erfolgreich zusammen. Immer im Interesse Ihrer Gesundheit. Sie finden bei uns hochqualifizierte **Neurologen, Psychiater, Psychotherapeuten, MS-Nurses, Demenz-Nurses, unser Team für klinische Studien und natürlich unsere Auszubildenden.**'
+  addextraspace: activate
+  _key: plaintext
+  _uid: plaintext_1553875418075_4068
+- 
+  headline: Ihre Fachärzte
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: 'true'
+  _key: subheadline
+  _uid: subheadline_1553875438236_4240
+- 
+  headline: Dr. med. Urda Käfer
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Dr. med. Urda Käfer
+  position: 'Fachärztin für Psychatrie & Psychotherapie'
+  target: ""
+  bgcolor: darkblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - aerzte_urda_kaefer.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: Persönlich
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553469456304_2948
+        - 
+          offset: ""
+          color: transparent
+          headline: Ärztliche Tätigkeit
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553450921783_942
+        - 
+          offset: ""
+          color: transparent
+          headline: Qualifikationen
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553467738408_639
+      contactfield: |
+        Sie möchten einen Termine vereinbaren?
+        Rufen Sie uns an unter (link: tel:0711 12 898 000 text: **0711 12 898 000**)
+        Oder schreiben Sie an (link: mailto:info@mind-stuttgart.de text: **info@mind-stuttgart.de**)
+      contact-field: sfosfksj
+      _key: tabmenu
+      _uid: tabmenu_1553446946618_445
+  details: ""
+  _key: person
+  _uid: person_1553272658424_3772
+- 
+  headline: Dr. med. Thomas Preschle
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Dr. med. Thomas Preschle
+  position: Facharzt für Neurologie
+  target: ""
+  bgcolor: darkblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - aerzte_thomas_preschle.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: Persönlich
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554127360717_19740
+        - 
+          offset: ""
+          color: ""
+          headline: Ärztliche Tätigkeit
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554127363058_19891
+        - 
+          offset: ""
+          color: ""
+          headline: Qualifikationen
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554127365397_20042
+      contactfield: |
+        Sie möchten einen Termine vereinbaren?
+        Rufen Sie uns an unter (link: tel:0711 12 898 000 text: **0711 12 898 000**)
+        Oder schreiben Sie an (link: mailto:info@mind-stuttgart.de text: **info@mind-stuttgart.de**)
+      _key: tabmenu
+      _uid: tabmenu_1554127309916_19015
+  _key: person
+  _uid: person_1553609672065_5517
+- 
+  headline: Dr. med. Cornelia Rau
+  hideheadline: 'true'
+  hideperson: ""
+  category: ""
+  name: Dr. med. Cornelia Rau
+  position: Fachärztin für Neurologie
+  target: ""
+  bgcolor: darkblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - aerzte_cornelia_rau.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: Persönlich
+          stretch: ""
+          textopen: |
+            <br>
+            *Was ist für Sie das Wichtigste in Ihrer Arbeit als Neurologe bei mind?*
+            
+            Das Wichtigste in meiner Arbeit als Neurologin bei mind ist der Kontakt zu meinen Patienten.
+            
+            *Was hat Sie bewogen, Neurologin zu werden?*
+            
+            Ich habe mich nach dem Studium entschieden, Neurologin zu werden, da das Gehirn ein für mich faszinierendes Organ ist. Vieles ist verstanden, aber vieles auch (noch) nicht.
+            
+            *Ihre Sicht: Was macht mind aus?*
+            
+            mind bietet sehr viele Möglichkeiten der ambulanten Diagnostik und Therapie sowie einen interkollegialen Austausch unter 7 ärztlichen Kollegen.
+            
+            *Haben Sie sich auf einen bestimmten Bereich der Neurologie spezialisiert?*
+            
+            Ich habe mich auf Erkrankungen aus dem Bereich „Schlafstörungen“ und „Kopfschmerzen“ spezialisiert.
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553875034463_3845
+        - 
+          offset: ""
+          color: ""
+          headline: Ärztliche Tätigkeit
+          stretch: ""
+          textopen: |
+            <br>
+            Seit 04/2013
+            **Fachärztin für Neurologie**, mind, Stuttgart
+            
+            2008 –2013
+            **Funktionsoberärztliche Leitung der Allgemeinen Poliklinik**, Spezialambulanz für Kopfschmerz und Schlafmedizin, Neurologische Universitätsklinik, Frankfurt am Main
+            
+            2008 – 2008
+            **Fachärztliche Leitung der neurologischen Notaufnahme**, Neurologische Klinik, Horst-Schmidt-Kliniken, Wiesbaden
+            
+            2006 – 2008
+            **Assistenzärztin** in der Klinik für Psychiatrie und Psychotherapie, Markus-Krankenhaus, Frankfurt am Main
+            
+            2005 – 2006
+            **Assistenzärztin** in der Neurologischen Klinik Nordwest-Krankenhaus, Frankfurt am Main
+            
+            2002 – 2005
+            **Assistenzärztin** in der Neurologischen Universitätsklinik, Tübingen
+            
+            1995 – 2001
+            **Studium der Humanmedizin** an der Eberhard-Karls-Universität, Tübingen
+            
+            2001
+            **Dissertation bei Prof. Dr. Handgretinge**r, Universitätskinderklinik Tübingen, „Funktionelle und phänotypische Untersuchung von p58, positiven natürlichen Killerzellen und T-Lymphozyten“
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553875062806_3421
+        - 
+          offset: ""
+          color: ""
+          headline: Qualifikationen
+          stretch: ""
+          textopen: |
+            <br>
+            **Zusatzbezeichnung Schlafmedizin**
+            DGPharMed Prüfarztkurs (GCP)
+            Qualifikationsnachweis Somnologie der DGSM
+            EEG-Zertifikat der DGKN
+            <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/2014508443-1580906102/zertifikat-dmkg-headache-dr-rau.pdf">Fortbildung Kopf- und Gesichtsschmerz (DMKG, 2020)</a>
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553875089316_3589
+      contactfield: |
+        Sie möchten einen Termine vereinbaren?
+        Rufen Sie uns an unter (link: tel:0711 12 898 000 text: **0711 12 898 000**)
+        Oder schreiben Sie an (link: mailto:info@mind-stuttgart.de text: **info@mind-stuttgart.de**)
+      _key: tabmenu
+      _uid: tabmenu_1553875033254_3788
+  _key: person
+  _uid: person_1553609704973_5763
+- 
+  headline: Dr. med. Stephan Richter
+  hideheadline: 'true'
+  hideperson: ""
+  category: ""
+  name: Dr. med. Stephan Richter
+  position: Facharzt für Neurologie
+  target: ""
+  bgcolor: darkblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - aerzte_stephan_richter.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: Persönlich
+          stretch: ""
+          textopen: |
+            <br>
+            *Was ist für Sie das Wichtigste in Ihrer Arbeit als Neurologe bei mind?*
+            
+            Das Gehirn ist ein kompliziertes Organ. Obwohl ich inzwischen 25 Jahre in der Neurologie arbeite, lerne ich immer noch dazu. In unserer Einrichtung habe ich die Möglichkeit, im Gegensatz zu einer Tätigkeit im Krankenhaus, Patienten über Jahre ihrer Therapie zu begleiten. Der Kontakt zu dem Patienten ist deshalb viel persönlicher. Außerdem arbeite ich hier, im Vergleich zum Krankenhaus, selbstbestimmter, ohne starken Einfluss ökonomischer Entscheidungen auf meine Arbeit.
+            
+            *Was hat Sie bewogen Neurologe zu werden?*
+            
+            Das Nervensystem eines Menschen ist, noch viel mehr als das Aussehen, der Kern seiner Persönlichkeit. Neurologische Erkrankungen sind daher potenziell besonders schwerwiegend. Meine tägliche Aufgabe und Antrieb ist es daher die Auswirkungen so gering wie möglich zu halten.
+            
+            *Ihre Sicht: Was macht mind aus?*
+            
+            Wir machen hier keine „Minuten-Medizin“. Die neurologische Untersuchung beginnt nicht mit dem Hämmerchen sondern mit einem ausführlichen Gespräch.  Als großes ambulantes Zentrum bieten wir eine breite Therapiepalette an. Bei einer schwierigen Fragestellung kann ich mich jederzeit mit meinen Kollegen austauschen.
+            
+            *Haben Sie sich auf einen bestimmten Bereich der Neurologie spezialisiert?*
+            
+            Spezialisierung ergibt sich nicht in ein paar Wochen sondern ist das Ergebnis von längerfristigen Tätigkeiten an unterschiedlichen Orten. In den ersten Jahren waren bei mir periphere Nervenerkrankungen und Epilepsie Schwerpunkte. In den weiteren Jahren meiner Tätigkeit in den Kliniken standen akute Erkrankungen, vor allem Schlaganfall, im Vordergrund. Nicht zuletzt  aufgrund der Tätigkeit bei mind war die Behandlung entzündlicher Nervenerkrankungen, insbesondere Multiple Sklerose, in den letzten Jahren im Mittelpunkt meiner Tätigkeit.
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554127415404_20298
+        - 
+          offset: ""
+          color: ""
+          headline: Ärztliche Tätigkeit
+          stretch: ""
+          textopen: |
+            <br>
+            Seit 2012
+            **Facharzt für Neurologie** mind, Stuttgart
+            
+            2006 – 2012
+            **Oberarzt** Neurologische Klinik am Klinikum, Ludwigsburg
+            
+            2000 – 2005
+            **Oberarzt** Neurologische Klinik am Marienhospital, Stuttgart
+            
+            1998 –1999
+            **Assistenzarzt Psychiatrische Klinik** am Markus-Krankenhaus, Frankfurt/Main
+            
+            1994 –1998
+            **Facharztweiterbildung Neurologie** Universitätsklinik Mainz
+            
+            1987– 1993
+            **Medizinstudium an der Ludwig-Maximilians-Universität München**
+            - Teilsemester Rush Medical School, Chicago, USA und
+            - Harvard Medical School, Boston, USA
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554127417059_20449
+        - 
+          offset: ""
+          color: ""
+          headline: 'Qualifikationen & Publikationen'
+          stretch: ""
+          textopen: |
+            <br>
+            **Zertifikate der Deutschen Gesellschaft für klinische Neurophysiologie (DGKN):**
+            - Elektroenzephalographie (EEG)
+            - Spezielle neurologische Ultraschalldiagnostik (Duplex)
+            - Elektromyographie (EMG)
+            
+            **Mitgliedschaften:**
+            - Deutsche Gesellschaft für Neurologie (DGN)
+            - Deutsche Gesellschaft für klinische Neurophysiologie (DGKN)
+            
+            **Publikationen:**
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/3817255357-1580908540/dgn-kongress-2019-natalizumab.pdf"> Poster »Natalizumab: Verlängertes Dosisintervall in der Therapie der Multiplen Sklerose« (DGN Kongress, 2019)</a>
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/4249269966-1580908542/journal-of-neurology-266-2019-alemtuzumab.pdf"> Publikation »Diabetes mellitus type 1 after alemtuzumab treatment for multiple sclerosis« (Journal of Neurology, May 2019)</a>
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/2272543925-1580908539/ectrims-2018-alemtuzumab.pdf"> Poster »Switching stable patients from Natalizumab to Alemtuzumab« (ECTRIMS Kongress, 2018)</a>
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/2721135557-1580908543/dng-kongress-2015-fingolimod.pdf"> Studie »Kardiale Ereignisse nach Erstgabe von Fingolimod« (DGN Kongress, 2015)</a>
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/2443471457-1590411067/dgn-2015-ip060-thepa-ms_poster.pdf"> Poster »Health-Related Quality of Life Outcomes in Patients With Relapsing-Remitting Multiple Sclerosis: The THEPA-MS Survey« (DGN Kongress, 2015)</a>
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/4222922457-1590411213/dmw-2006-angiostrongylus-cantonensis-sm.pdf"> Publikation »Kopfschmerzen nach Aufenthalt in der Dominikanischen Republik« (DMW 2006)</a>
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/3113907896-1590411068/nervenarzt-2003-epiduraler-abszess.pdf"> Publikation »Akute Zephalgie mit Meningismus und xanthochromem Liquor« (Nervenarzt 2003)</a>
+            
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554127418510_20600
+      contactfield: |
+        Sie möchten einen Termine vereinbaren?
+        Rufen Sie uns an unter (link: tel:0711 12 898 000 text: **0711 12 898 000**)
+        Oder schreiben Sie an (link: mailto:info@mind-stuttgart.de text: **info@mind-stuttgart.de**)
+      _key: tabmenu
+      _uid: tabmenu_1554127414296_20241
+  _key: person
+  _uid: person_1553609733685_6013
+- 
+  headline: Dr. med. Bert Wagner
+  hideheadline: 'true'
+  hideperson: ""
+  category: ""
+  name: Dr. med. Bert Wagner
+  position: Facharzt für Neurologie
+  target: ""
+  bgcolor: darkblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - aerzte_bert_wagner.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: Persönlich
+          stretch: ""
+          textopen: |
+            <br>
+            *Was ist für Sie das Wichtigste in ihrer Arbeit als Neurologe bei mind?*
+            
+            Die Medizin ist heutzutage immer stärker im Fokus wirtschaftlicher Interessen und knapper personeller Ressourcen. Insofern wird es für die Menschen zunehmend wichtiger, einen verlässlichen Ansprechpartner zu haben, der sie durch die vielfältigen Möglichkeiten von Diagnostik und Therapie begleitet und Verantwortung übernimmt. Die Arbeit bei mind ermöglicht mir in vielfältiger Weise, dieses mitzugestalten.
+            
+            *Was hat Sie bewogen Neurologe zu werden?*
+            
+            Die Neurologie ist eines der Fächer mit der rasantesten Entwicklung der letzten 20 Jahre, von der überwiegenden diagnostischen zu einer echten therapeutischen Disziplin. Ständig ergeben sich neue Möglichkeiten, auch bei Krankheiten die früher als unheilbar oder zumindest kaum behandelbar galten. Das Fach kennt kein »Schema F« und keine Langeweile!
+            
+            *Ihre Sicht: Was macht mind aus?*
+            
+            mind bietet ein breites Spektrum von Behandlungsoptionen auf verschiedenen Schwerpunkten mit  qualifizierten Mitarbeitern auf allen Ebenen. Bei mind ist man immer bemüht, den Patienten das Bestmögliche anzubieten und medizinische Innovationen schnell ins alltägliche Handeln mit einzubeziehen.
+            
+            *Haben Sie sich auf einen bestimmten Bereich der Neurologie spezialisiert?*
+            
+            Die Multiple Sklerose ist in der alltäglichen Arbeit in einem der größten MS-Zentren natürlich ein wichtiger Schwerpunkt. Als ehemaliger Oberarzt einer Schlaganfall-Einheit ist die Betreuung von Gefäßerkrankungen in der Neurologie aber natürlich immer noch eines meiner Steckenpferde. Dies beinhaltet auch die neurologische Ultraschalldiagnostik.
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553874866128_3249
+        - 
+          offset: ""
+          color: ""
+          headline: Ärztliche Tätigkeit
+          stretch: ""
+          textopen: |
+            <br>
+            Seit 2012
+            **Facharzt für Neurologie** mind, Stuttgart
+            
+            2005 –2012
+            **Oberarzt** an der Neurologischen Klinik des Klinikums Ludwigsburg
+            
+            2005 – 2005
+            **Assistenzarzt** an der Neurologischen Klinik des Klinikums Ludwigsburg
+            
+            2003 – 2005
+            **Assistenzarzt** an der Klinik für Psychiatrie und Psychotherapie des Klinikums Ludwigsburg
+            
+            1999 – 2003
+            **Assistenzarzt** an der Neurologischen Klinik des Marienhospitals, Stuttgart
+            
+            1997 – 1998
+            **Arzt im Praktikum** an der Neurologischen Klinik der Bayerischen Julius-Maximilians-Universität
+            Studium
+            
+            1993 - 1997
+            **Studium der Humanmedizin** an der Bayerischen Julius-Maximilians-Universität zu Würzburg
+            
+            1990 - 1993
+            **Studium der Humanmedizin** an der Christian-Albrechts-Universität zu Kiel
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553874870594_3400
+        - 
+          offset: ""
+          color: ""
+          headline: 'Qualifikationen & Publikationen'
+          stretch: ""
+          textopen: |
+            <br>
+            **Mitgliedschaften:**
+            
+            - Deutsche Gesellschaft für Neurologie (DGN)
+            - Deutsche Gesellschaft für Ultraschall in der Medizin (DEGUM)
+            
+            **Publikationen:**
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/3817255357-1580908540/dgn-kongress-2019-natalizumab.pdf">Studie »Natalizumab: Verlängertes Dosisintervall in der Therapie der Multiplen Sklerose« (DGN Kongress, 2019)</a>
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/4249269966-1580908542/journal-of-neurology-266-2019-alemtuzumab.pdf">Studie »Diabetes mellitus type 1 after alemtuzumab treatment for multiple sclerosis« (Journal of Neurology, May 2019)</a>
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/2272543925-1580908539/ectrims-2018-alemtuzumab.pdf">Studie »Switching stable patients from Natalizumab to Alemtuzumab« (ECTRIMS Kongress, 2018)</a>
+            - <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/arzte/2721135557-1580908543/dng-kongress-2015-fingolimod.pdf">Studie »Kardiale Ereignisse nach Erstgabe von Fingolimod« (DGN Kongress, 2015)</a>
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553874871753_3551
+      contactfield: |
+        Sie möchten einen Termine vereinbaren?
+        Rufen Sie uns an unter (link: tel:0711 12 898 000 text: **0711 12 898 000**)
+        Oder schreiben Sie an (link: mailto:info@mind-stuttgart.de text: **info@mind-stuttgart.de**)
+      _key: tabmenu
+      _uid: tabmenu_1553874863319_3192
+  _key: person
+  _uid: person_1553609764443_6242
+- 
+  headline: Dr. med. Frauke Zimmermann
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Dr. med. Frauke Zimmermann
+  position: Fachärztin für Neurologie
+  target: ""
+  bgcolor: darkblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - aerzte_frauke_zimmermann.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: Persönlich
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554127430896_20845
+        - 
+          offset: ""
+          color: ""
+          headline: Ärztliche Tätigkeit
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554127433021_20996
+        - 
+          offset: ""
+          color: ""
+          headline: Qualifikation
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554127434564_21147
+      contactfield: |
+        Sie möchten einen Termine vereinbaren?
+        Rufen Sie uns an unter (link: tel:0711 12 898 000 text: **0711 12 898 000**)
+        Oder schreiben Sie an (link: mailto:info@mind-stuttgart.de text: **info@mind-stuttgart.de**)
+      _key: tabmenu
+      _uid: tabmenu_1554127429538_20788
+  _key: person
+  _uid: person_1553609796890_6492
+- 
+  headline: Dr. med. Valerie Hirt
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Dr. med. Valerie Hirt
+  position: >
+    Fachärztin für Psychiatrie und
+    Psychotherapie
+  target: ""
+  bgcolor: darkblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - aerzte-valerie-hirt-1111x300-q90.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: Persönlich
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1580894446220_13191
+        - 
+          offset: ""
+          color: ""
+          headline: Ärztliche Tätigkeit
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1580894446221_13200
+        - 
+          offset: ""
+          color: ""
+          headline: Qualifikation
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1580894446221_13209
+      contactfield: |
+        Sie möchten einen Termine vereinbaren?
+        Rufen Sie uns an unter (link: tel:0711 12 898 000 text: **0711 12 898 000**)
+        Oder schreiben Sie an (link: mailto:info@mind-stuttgart.de text: **info@mind-stuttgart.de**)
+      _key: tabmenu
+      _uid: tabmenu_1580894446167_13134
+  _key: person
+  _uid: person_1580894446006_12944

@@ -1,0 +1,266 @@
+Title: Klinische Studien
+
+----
+
+Contentelements: 
+
+- 
+  headline: Klinische Studien
+  hideheadline: ""
+  menuhide: ""
+  keyvisual2:
+    - 5048-labor-spritzen-lg-xl.jpg
+  keyvisual3:
+    - 5048-kv-labor-spritzen-xs-md.jpg
+  keyvisualsettings: nofullscreen
+  text: ""
+  _key: keyvisual
+  _uid: keyvisual_1552404362324_7871
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: activate
+  marginleft: ""
+  fixed: ""
+  textbox: '**Am Puls der medizinischen Entwicklung** zu stehen ist unser erklärtes Ziel bei mind. Denn nur so können wir sicher stellen, dass wir Sie so optimal betreuen, wie Sie es verdienen. Daher sind wir nun bereits seit sieben Jahren etabliertes Studienzentrum für den Bereich Neurologie. Im Bereich **laufende Studien finden Sie die Themenbereiche, bei denen eine Teilnahme noch möglich ist.**'
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1554276279694_7131
+- 
+  headline: Studien FAQ
+  hideheadline: ""
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1553176198003_528
+- 
+  title: Was sind klinische Studien?
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: '**Von der ersten Idee für ein Arzneimittel bis zum zugelassenen Medikament vergehen in der Regel nicht weniger als 10 Jahre.** Zunächst muss ein Wirkstoff identifiziert werden. In sogenannten präklinischen Studien an Zellkulturen und Tierversuchen muss die Wirksamkeit und Ungefährlichkeit nachgewiesen werden (Phase 1). Erst dann wird das Medikament zum ersten Mal an gesunden Menschen getestet (Phase 2). Erst ganz zum Schluss, in den Phasen 3 (vor der Zulassung) und 4 (nach der Zulassung) spricht man von klinischen Studien. **Hier sind erstmals Patienten beteiligt.**'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553176211612_967
+- 
+  title: Was sind die Voraussetzungen?
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: ""
+  textbox: |
+    Alle medizinischen Studien müssen behördlich genehmigt sein (in Deutschland vom Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) bzw. dem Paul-Ehrlich-Iinstitut (PEI). Zusätzlich beurteilt eine Ethikkommission den Plan der Studie und gibt eine positive bzw. negative Stellungnahme ab. **Das Team von mind ist nur im Bereich von Phase 3 und Phase 4 Studien tätig.**
+    Die Studien der Phase 3 sollen den Beleg für die Wirksamkeit eines neuen Medikaments erbringen, die Studien der Phase 4 ergeben nach der Zulassung des Medikaments vertiefende Informationen über den Einsatz des Medikaments unter Alltagsbedingungen.
+    **Bei MIND betreuen wir unsere Studienteilnehmern nach einer besonders sorgfältigen, einheitlichen Prozess. Dieser besteht aus engmaschigen Kontrollen, regelmäßige Untersuchungen durch unsere Ärzteteam und das Studienpersonal.**
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553176270421_1506
+- 
+  title: Wie kann ich an einer Studie teilnehmen?
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: ""
+  repeater1:
+    - 
+      headline: ""
+      hideheadline: ""
+      menuhide: ""
+      bgcolor: ""
+      relation: ""
+      repeater1:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: |
+            Wir **betreuen laufend verschiedene Studien aus den Fachbereichen Neurologie und Psychiatrie.** Sie finden unsere aktuellen Studien oben auf dieser Seite.
+            Ob eine Studienteilnahme für Sie das Richtige ist, können Sie anhand der angegebenen Voraussetzungen prüfen. **Und natürlich freut sich unsere Studienkoordinatorin Christine Rau auf Ihre Rückfrage!**
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553591052868_13735
+      repeater2:
+        - 
+          picture:
+            - mind_christine_rau.jpg
+          margintop: null
+          color: bright
+          _key: profilpic
+          _uid: profilpic_1553591060473_13911
+        - 
+          offset: ""
+          color: dark
+          setelement: setbefore
+          setelementfarbe: transparent
+          obenunten: unten
+          textarea: |
+            **Christine Rau**
+            Studienkoordination
+            
+            (link: mailto:christine.rau@mind-stuttgart.de text: *christine.rau@mind-stuttgart.de*)
+            *Telefon: 0711-50 870 280*
+          btntitle: ""
+          btntarget: ""
+          test: ""
+          _key: boxsmall
+          _uid: boxsmall_1553591062555_13982
+      repeater3: [ ]
+      _key: customelement
+      _uid: customelement_1553591044270_13599
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553176300715_1661
+- 
+  headline: Laufende Studien
+  hideheadline: ""
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1553176325866_1980
+- 
+  title: 'Multiple Sklerose: NOVA'
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: 'In dieser Studie wird die Wirksamkeit, Sicherheit und Verträglichkeit einer verlängerten 6-Wochen-Intervalldosierung im Vergleich zu der Behandlung mit 4-wöchiger Standardintervalldosierung von Natalizumab untersucht. **Diese Studie läuft bereits mit der möglichen Teilnehmeranzahl.**'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553176338575_2082
+- 
+  title: 'Migräne: HER-MES'
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: ""
+  repeater1:
+    - 
+      headline: ""
+      hideheadline: ""
+      menuhide: ""
+      bgcolor: ""
+      relation: ""
+      repeater1:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: |
+            In diese Phase IV-Studie können erwachsene Patienten im Alter zwischen 18 und 65 Jahren aufgenommen werden, die an **4 bis 14 Tagen pro Monat **an Migräne-Kopfschmerzen leiden und bisher noch **kein Topiramat **als vorbeugende Migräne-Behandlung (sog. Migräne-Prophylaxe) erhalten haben. **Sie möchten gerne teilnehmen? **Gemeinsam mit Ihnen gehen wir gerne die Detailanforderung durch. **Wir freuen uns über Ihre Kontaktaufnahme!**
+            Weitere Informationen finden Sie (link: https://klinischeforschung.novartis.de/doctor/migraene-studie-camg334ade01-hermes/ text: **hier.**)
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1556194293568_4578
+      repeater2:
+        - 
+          picture:
+            - mind_christine_rau.jpg
+          margintop: 0
+          color: bright
+          _key: profilpic
+          _uid: profilpic_1556194261200_4273
+        - 
+          offset: ""
+          color: dark
+          setelement: setbefore
+          setelementfarbe: ""
+          obenunten: unten
+          textarea: |
+            **Christine Rau**
+            Studienkoordination
+            
+            (link: mailto:christine.rau@mind-stuttgart.de text: *christine.rau@mind-stuttgart.de*)
+            *Telefon: 0711-50 870 280*
+          btntitle: ""
+          btntarget: ""
+          test: ""
+          _key: boxsmall
+          _uid: boxsmall_1556194277346_4409
+      repeater3: [ ]
+      _key: customelement
+      _uid: customelement_1556194251073_4123
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553176349511_2236
+- 
+  headline: Bisherige Studien
+  hideheadline: ""
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1553176370475_2566
+- 
+  title: 'Multiple Sklerose: ASCLEPIOS - Phase III-Studie'
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: >
+    In dieser Studie wurde die Wirkung von
+    »Ofatumumab« mit der Wirkung des
+    bereits zugelassenen Arzneimittels
+    »Teriflunomid« verglichen.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553176378360_2685
+- 
+  title: 'Multiple Sklerose: CASTING - Phase III-Studie'
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: >
+    In dieser Studie wurde die Wirksamkeit
+    und Sicherheit von »Ocrelizumab«
+    untersucht.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553176391118_2839
+- 
+  title: 'Multiple Sklerose:  START - Phase IV'
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: >
+    In dieser Studie wurde das kardiale
+    Sicherheitsprofil bei Erstgabe von
+    »Fingolimod« untersucht.
+  repeater1:
+    - 
+      headline: ""
+      hideheadline: ""
+      menuhide: ""
+      bgcolor: ""
+      relation: ""
+      repeater1: [ ]
+      repeater2: [ ]
+      repeater3: [ ]
+      _key: customelement
+      _uid: customelement_1553176946671_1450
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553176399285_2993
+- 
+  title: Engage-Studie
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: >
+    In dieser Studie wurde die Wirkung und
+    das Sicherheitsprofil von »Aducanumab«
+    im Vergleich zu Placebo untersucht.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1555577913327_15019
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: '<br><br><br>'
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1553176493429_3164

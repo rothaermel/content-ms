@@ -1,0 +1,17 @@
+Title: Für Patienten
+
+----
+
+Descriptor: Kontakt speziell für Patienten
+
+----
+
+Phone: 071112898000
+
+----
+
+Email: info@mind-stuttgart.de
+
+----
+
+Menupointsfromchild: 

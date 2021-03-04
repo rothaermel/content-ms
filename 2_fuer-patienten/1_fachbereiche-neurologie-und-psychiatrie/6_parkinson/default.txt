@@ -1,0 +1,231 @@
+Title: Parkinson
+
+----
+
+Contentelements: 
+
+- 
+  headline: Parkinson
+  hideheadline: ""
+  menuhide: ""
+  keyvisual2:
+    - parkinson-md-xl.jpg
+  keyvisual3:
+    - parkinson-xs-sm.jpg
+  keyvisualsettings: ""
+  text: ""
+  _key: keyvisual
+  _uid: keyvisual_1552403911401_2575
+- 
+  headline: Allgemeines
+  hideheadline: 'true'
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1553165798098_6254
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: left
+      textopen: 'Auch Parkinson ist eine Krankheit, über deren konkrete Ursachen die Medizin heute noch forscht. Ebenso ist die sogenannte »Schüttellähmung« bis heute nicht heilbar – jedoch durch Fortschritte gerade im Bereich der Neurologie – behandelbar. Dafür ist es wichtig, möglichst früh eine genaue Diagnose zu treffen. **Sprechen Sie dazu mit unserem Fachteam von mind!**'
+      textclosed: |
+        Morbus Parkinson ist eine idiopathische neurologische Erkrankung. Idiopathisch bedeutet: ohne erkennbare (in diesem Fall auch: ohne bekannte) Ursache. Die Erkrankung lässt diejenigen Bereiche im Gehirn, die für die Bewegungsabläufe zuständig sind, schleichend absterben. In Deutschland sind etwa 250.000 bis 300.000 Menschen erkrankt.
+        Lange Zeit kann die Funktion der absterbenden Bereiche durch andere Zellen aufgefangen werden. Die Krankheit zeigt Ihr typisches Bild erst, wenn schon zwischen 60 und 80% der Nervenzellen, die den für Bewegungsabläufe erforderlichen Botenstoff Dopamin herstellen, in ihrer Funktion beeinträchtigt sind. **Typisch sind:**
+        +  Einschränkungen der Feinmotorik
+        +  Zittern (Tremor)
+        +  Muskelsteifigkeit (Rigor)
+        +  Unsicherheit im Gehen und Stehen
+        +  Hemmung des Bewegungsstarts (Akinese)
+        
+        Begleitet wird die Krankheit oft von recht unspezifischen Symptomen wie:
+        +  rasche Ermüdung und fehlende Belastbarkeit
+        +  Konzentrations- und Gedächtnisstörungen
+        +  Schlafstörungen
+        
+        **Gerade durch dieses sehr komplexe Bild, ist eine gründliche diagnostische Vorarbeit absolut essenziell.**
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553165831409_6472
+  repeater2:
+    - 
+      offset: ""
+      color: dark
+      headline: ""
+      stretch: ""
+      textopen: |
+        *»Die Parkinson-Krankheit ist eine Diagnose – kein Urteil. Das gesamte Team von mind ermutigt unsere Patienten, Initiative zu ergreifen und Ihre Behandlung aktiv mitzugestalten.«*
+        
+        <color><sm><b>Dr. Frauke Zimmermann,</b> Fachärztin für Neurologie</sm></color>
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553166151730_8031
+  _key: twocol
+  _uid: twocol_1553165824584_6367
+- 
+  headline: Frühphase
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: 'true'
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: >
+        Je früher Morbus Parkinson
+        diagnostiziert wird, umso wirkungsvoller
+        kann sich die folgende Therapie
+        entfalten. In der Frühphase der
+        Erkrankung ist das Bild besonders
+        komplex zumal etliche andere Leiden
+        ähnliche Symptome auslösen. Hier
+        braucht es also zwingend eine
+        gründliche neurologische Untersuchung.
+      textclosed: |
+        **Diagnostik:** Die Diagnostik beginnt immer mit einer sorgfältigen Anamnese, gerne auch unter Einbeziehung der Angehörigen. Es folgt eine detaillierte klinische neurologische Untersuchung. Eine genaue Differentialdiagnose, zum Beispiel über verschiedene bildgebende Verfahren ist ebenso erforderlich, da mögliche andere Erkrankungen ausgeschlossen werden müssen.
+        
+        **Ihr Beitrag:** Ihr Beitrag ist schon in der Diagnostik entscheidend. Schildern Sie, ob und welche Schwierigkeiten bei alltäglichen Abläufen, z. B. Zähneputzen und Rasieren auftreten! Haben Sie Probleme beim Ein- oder Durchschlafen? Ist Ihr Geruchssinn verändert? Fühlen Sie sich niedergeschlagen und antriebslos? Sprechen Sie mit Ihrem Neurologen, wenn Ihnen ein Schritt innerhalb der Diagnostik nicht eindeutig klar ist! **Ein gutes Zusammenspiel von Arzt und Patient ist die Basis für eine frühe und sichere Diagnose.**
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553165945286_6975
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-preschle@2.jpg
+      margintop: null
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1553165995611_7287
+    - 
+      offset: offset
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Dr. med. Thomas Preschle**
+        Facharzt für Neurologie
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1553609796890_6492'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553166002357_7506
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553165924027_6865
+- 
+  headline: Therapie
+  hideheadline: ""
+  keyvisual2:
+    - 4543-gelander-therapie-lg-xl.jpg
+  keyvisual2mobile:
+    - 4543-gelander-therapie-xs-md.jpg
+  keyvisual2_mobile:
+    - 4543-gelander-therapie-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553166520702_8287
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: |
+        Da die Parkinson-Erkrankung heute noch nicht heilbar ist, liegt der **Fokus jeder Therapie auf vier Säulen:**
+        +  Linderung der bestehenden Symptome
+        +  Verbesserung der Lebensqualität
+        +  Geringes Nebenwirkungsrisiko
+        +  Günstiger Einfluss auf den Gesamtverlauf der Erkrankung
+        Die Therapie ist ebenso individuell wie Ihr persönlicher Befund. Viele Faktoren müssen hier berücksichtigt werden – vom Lebensalter bis hin zu spezifischen Unverträglichkeiten. Ihr Neurologe entscheidet gemeinsam mit Ihnen, welche Therapieform infrage kommt.
+      textclosed: |
+        Jede Behandlung basiert auf einer **medikamentösen Therapie:**
+        Es gibt zahlreiche wirksame Medikamente, mit denen die Parkinson-Symptome über viele Jahre sehr gut behandelt werden können. Inzwischen gibt es mehrere wirksame Substanzgruppen, welche auch kombiniert eingesetzt werden können. Sprechen Sie mit unseren Fachärzten!
+        
+        Ein weiterer wichtiger Baustein ist die  **Physiotherapie:** Das erste Ziel bei der Physiotherapie ist es, die Beweglichkeit zu erhalten, Mobilität zu fördern, und gegebenenfalls verlorengegangene Fähigkeiten wieder neu zu erarbeiten. Gleichgewicht, Haltung und Koordination sind die Schwerpunkte der Physiotherapie bei mind. Aber auch vorbeugendes Sturzmanagement und Wahrnehmungsschulung der Patienten.
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553532915347_21140
+    - 
+      headline: Weiterführende Themen
+      offset: ""
+      color: bright
+      stretch: left
+      eventlist:
+        - 
+          title: Physiotherapie
+          target: ' /behandlung#subheadline_1553813480182_1525'
+          _key: menupoints
+          _uid: menupoints_1553533044241_21724
+        - 
+          title: Depression
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/depression
+          _key: menupoints
+          _uid: menupoints_1553533051104_21772
+        - 
+          title: Betreuung Hirnschrittmacher
+          target: '/behandlung#subheadline_1553812301260_6727'
+          _key: menupoints
+          _uid: menupoints_1553533057168_21825
+        - 
+          title: Patientenschulungen
+          target: ""
+          _key: menupoints
+          _uid: menupoints_1553533070951_21878
+      _key: menubox
+      _uid: menubox_1553533031348_21649
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-zimmermann@2.jpg
+      margintop: 70
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1553532917561_21309
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Dr. med. Frauke Zimmermann**
+        Fachärztin für Neurologie
+        
+        *Erfahren in der medikamentösen Einstellung der Parkinson-Erkrankung*
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1553609672065_5517'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553532920271_21375
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553532905269_21009
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  textbox: '<br><br><br>'
+  _key: plaintext
+  _uid: plaintext_1555424111683_54783

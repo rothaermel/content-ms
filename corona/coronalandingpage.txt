@@ -1,0 +1,147 @@
+Title: Corona Landingpage
+
+----
+
+H1: Wir machen keine Pause. <br>Denn Ihre Krankheit tut es auch nicht.
+
+----
+
+Headerimage: 
+
+- keyvisual-corona-landingpage-mind.jpg
+
+----
+
+Headerimagemobile: 
+
+- >
+  keyvisual-corona-landingpage-mobile-mind.jpg
+
+----
+
+Darkblue-headline: Häufige Fragen von Patienten zum Arztbesuch während Corona.
+
+----
+
+Darkblue-h3: Darf ich während der Corona-Pandemie zum Neurologen gehen?
+
+----
+
+Darkblue-p: Auf jeden Fall. Auch wenn das Corona-Virus grade das beherrschende Thema ist: die anderen Krankheiten verschwinden dadurch ja nicht.
+
+----
+
+Darkblue-h3-2: Sollte ich mit dem Arztbesuch nicht lieber warten, bis sich die Corona-Lage verbessert hat?
+
+----
+
+Darkblue-p-2: Nein, im Gegenteil. Bei vielen neurologischen Krankheiten wie Multiple Sklerose (MS) oder Schlaganfall ist eine rasche Behandlung besonders wichtig. Andernfalls gefährden Sie den Genesungsprozess und Folgeschäden können langfristig zurückbleiben.
+
+----
+
+Darkblue-h3-3: Erhöhe ich mein Ansteckungsrisiko mit Corona, wenn ich die Praxis von mind besuche?
+
+----
+
+Darkblue-p-3: Wir treffen alle nötigen hygienischen Schutzmaßnahmen, um Ihren Besuch so sicher wie möglich zu gestalten. Ihr Besuch bei uns ist also nicht risikoreicher als ein Einkauf im Supermarkt.
+
+----
+
+Darkblue-addon-1: Wenn Sie Symptome bemerken, zögern Sie nicht! Vereinbaren Sie einen Termin in unserer Praxis.
+
+----
+
+Darkblue-addon-2: Nur so haben Sie die Chance auf die bestmögliche Therapie. Und minimieren das Risiko von bleibenden Spätfolgen.
+
+----
+
+Lightblue-headline: Was sollten Sie beim Arztbesuch während Corona beachten?
+
+----
+
+Lightblue-list: Kommen Sie bitte **pünktlich** (nicht zu früh oder zu spät) zum vereinbarten Termin
+
+----
+
+Lightblue-list-2: Wenn möglich, kommen Sie bitte alleine. Begleitpersonen sind nur erlaubt, wenn diese erforderlich sind. Nach Möglichkeit warten diese außerhalb der Praxis auf Sie.
+
+----
+
+Lightblue-list-3: Halten Sie die **AHA-Regeln** ein: Abstand. Hygiene. Alltagsmaske.
+
+----
+
+Lightblue-list-4: Wenn Sie Fieber oder Grippesymptome haben, kommen Sie NICHT direkt in die Praxis. Nehmen Sie zuerst telefonisch mit uns Kontakt auf.
+
+----
+
+Lightblue-list-5: Zum Infektionsrisiko mit COVID-19 für **Patienten mit MS** beachten Sie die Stellungnahme der Deutschen Multiplen Sklerose Gesellschaft unter (link: www.dmsg.de text: www.dmsg.de).
+
+----
+
+Icon-headline: Darum sind Sie bei mind bestens betreut.
+
+----
+
+Icon1: 
+
+- icon01.svg
+
+----
+
+Icon2: 
+
+- icon02.svg
+
+----
+
+Icon3: 
+
+- icon03.svg
+
+----
+
+Icon4: 
+
+- icon04.svg
+
+----
+
+Icon5: 
+
+- icon05.svg
+
+----
+
+Prefooterimg: 
+
+- prefooter-image-mind.jpg
+
+----
+
+Prefooterimgmobile: 
+
+- prefooter-image-mobile-mind.jpg
+
+----
+
+Prefooterboxquote: mind – das kommt von: Medizin individuell. Und so verstehen wir unsere Aufgabe als Team. Denn so individuell wie die Krankheitsbilder der Neurologie so persönlich entwickeln wir Ihre Therapie.
+
+----
+
+Prefooterboxauthor: <b>Dr. Stephan Richter & Dr. Bert Wagner,</b><br> Fachärzte für Neurologie bei mind
+
+----
+
+Prefootertext: Unser Medizinisches Zentrum für Neurologie und Psychiatrie ist auch in Zeiten von Corona für Sie da.
+
+----
+
+Contentelements: 
+
+----
+
+Darkblue-addon: 
+
+Wenn Sie Symptome bemerken, zögern Sie nicht! Vereinbaren Sie einen Termin in unserer Praxis.
+Nur so haben Sie die Chance auf die bestmögliche Therapie. Und minimieren das Risiko von bleibenden Spätfolgen.

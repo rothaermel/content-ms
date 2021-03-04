@@ -1,0 +1,250 @@
+Title: Demenz
+
+----
+
+Contentelements: 
+
+- 
+  headline: Demenz
+  hideheadline: ""
+  menuhide: ""
+  keyvisual2:
+    - demenz-md-xl.jpg
+  keyvisual3:
+    - demenz-xs-sm.jpg
+  keyvisualsettings: ""
+  text: ""
+  _key: keyvisual
+  _uid: keyvisual_1552403896696_2234
+- 
+  headline: Allgemeines
+  hideheadline: 'true'
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: 'Vergesslichkeit ist normal. Wir werden vielleicht auch ein wenig langsamer. Wenn Sie jedoch immer häufiger Dinge vergessen, die erst kürzlich passiert sind, oder wenn Sie sich am Ende eines langen Zeitungsartikels schwer auf den Anfang besinnen können, kann dies ein Hinweis auf beginnende Demenz sein. Eines ist besonders wichtig: **Ausschließlich ein qualifizierter Neurologe kann die komplizierte Diagnose Demenz oder Alzheimer stellen. **'
+      textclosed: |
+        In Deutschland sind heute etwa 1.4 Mio Menschen von den verschiedenen Formen der Demenz betroffen. Die weitaus häufigste ist die Alzheimer-Demenz. Ein geringerer Anteil der Betroffenen leidet unter einer vaskulären Demenz – d.h. eine durch Durchblutungsstörungen des Gehirns bedingte Erkrankung des Gehirns. Es gibt auch Mischformen aus beiden. So vielfältig die Formen der Demenz sind, so breitgefächert sind auch die Diagnostik und Behandlung.
+        Obwohl die meisten Betroffenen älter als 65 Jahre alt sind, kann bei Demenz nicht von einer Alterserkrankung gesprochen werden: Dafür sind die Ursachen zu unterschiedlich. In den meisten Fällen entwickelt sich die Demenz langsam und schleichend. Somit ist eine detaillierte Diagnostik von großem Vorteil.
+      pic: [ ]
+      picalt: ""
+      relation: [ ]
+      _key: textbox
+      _uid: textbox_1553166776527_10058
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-wagner@2.jpg
+      margintop: null
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1553166723029_9835
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Dr. med. Bert Wagner**
+        Facharzt für Neurologie
+        
+        *Ihr Experte für die komplizierte Diagnostik
+        der Demenz*
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1553609764443_6242'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553166733021_9921
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553166699479_9704
+- 
+  headline: 'Prophylaxe & Frühphase'
+  hideheadline: ""
+  keyvisual2:
+    - 4574_demenz-fruhphase-lg-xl.jpg
+  keyvisual2mobile:
+    - 4574_demenz-fruhphase-xs-md.jpg
+  keyvisual2_mobile:
+    - 4574_demenz-fruhphase-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553166831435_10297
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: left
+      textopen: |
+        **Demenz – Was kann ich vorbeugend tun?**
+        
+        Was gut fürs Herz ist, hilft auch dem Gehirn. Deshalb ist jede Maßnahme sinnvoll, die für eine gute Durchblutung und gesunde Gefäße sorgt. Für die passende Ernährung, Bewegung, Gedächtnistraining und soziale Kontakte können Sie selbst sorgen. Darüber hinaus steht Ihnen das Team von mind zur Seite für eine gute **medizinische Prophylaxe, eine solide Diagnostik und eine individuelle Therapie.**
+      textclosed: |
+        **Medizinische Prophylaxe:**  schon ab dem 40sten bis 50sten Lebensjahr ist es hilfreich, genau auf Risikofaktoren für frühzeitige Alterungsprozesse im Gehirn zu achten. Lassen Sie Bluthochdruck, Diabetes, Herzrhythmusstörungen und erhöhte Cholesterinwerte regelmäßig untersuchen und behandeln. Die moderne Neurologie verfolgt spätestens seit den 2010er Jahren eine neue Strategie in der Demenz-Vorsorge: Risikofaktoren erkennen und neue Wege einschlagen um den Verfall zu stoppen. Und dies, bevor der Patient kognitive Einschränkungen erleidet.
+        
+        **Diagnose:**  Heute bietet das Internet eine Fülle neuer Informationsmedien zu Demenz. Dennoch gilt: Einen verlässlichen Test zur Selbstdiagnose von Demenz oder Alzheimer gibt es nicht. Sollten Sie oder Ihre Angehörige eine Demenzerkrankung vermuten, hilft zunächst eine detaillierte Diagnostik. Wichtigster Bestandteil ist auch hier das Gespräch mit Ihrem Neurologen. Begleitet wird dies in der Regel von Blutuntersuchungen und der Bestandsaufnahme von bestehenden Erkrankungen und eingenommenen Medikamenten. Eine eingehende Untersuchung gibt Hinweise auf Ihre   Gedächtnisleistung. Mit bildgebenden Verfahren wie CT und MRT, einer Ultraschalluntersuchung der Halsgefäße (Doppler-Sonographie) oder der Untersuchung des Nervenwassers (Liquor) kann die Diagnose weiter konkretisiert werden.
+      pic: [ ]
+      picalt: ""
+      relation: [ ]
+      _key: textbox
+      _uid: textbox_1553166905447_1100
+  repeater2:
+    - 
+      offset: offset
+      color: dark
+      headline: ""
+      stretch: ""
+      textopen: |
+        *»An der Demenz als Volkskrankheit können wir heute nicht vorbei sehen. Aber wir möchten für den einzelnen Patienten die bestmögliche therapeutische Begleitung anbieten«*
+        
+        <color><sm><b>Dr. Bert Wagner,</b> Facharzt für Neurologie</sm></color>
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      relation: [ ]
+      _key: textbox
+      _uid: textbox_1553166944342_1257
+  _key: twocol
+  _uid: twocol_1553166895787_995
+- 
+  headline: Alzheimer
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: 'true'
+  relation: 'true'
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: '**Wer rastet, der rostet:** Bei Alzheimer stimmt dieser Vergleich tatsächlich. Den »Rost« bilden hierbei sogenannte Plaques – nur bei Alzheimer-Demenz auftretende typische Plaques. Diese Eiweißablagerungen stören die Kommunikation in und zwischen den Nervenzellen. Dadurch sterben Nervenzellen und Nervenzellverbindungen ab. Gedächtnis, Denken, Sprache und Orientierung sind die am meisten betroffenen Hirnfunktionen. Dieser Vorgang lässt sich verhindern oder zumindest abschwächen, wenn man zeitlebens geistig und körperlich aktiv ist.'
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      relation: [ ]
+      _key: textbox
+      _uid: textbox_1553532271184_16802
+  repeater2: [ ]
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553532258623_16664
+- 
+  headline: ""
+  hideheadline: 'true'
+  keyvisual2:
+    - 4620-demenz-glas-lg-xl.jpg
+  keyvisual2mobile:
+    - 4620-demenz-glas-xs-md.jpg
+  keyvisual2_mobile:
+    - 4664-patientin-empfang-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553705052782_17955
+- 
+  headline: Vaskuläre Demenz
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: 'true'
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: 'Die zweithäufigste Form der Demenz ist die sogenannte vaskuläre Demenz, die auf eine Durchblutungsstörung zurückzuführen ist. Sie ist leicht mit einer Alzheimer Erkrankung zu verwechseln, dennoch unterscheiden sich die Symptome bei beiden. Für die vaskuläre Demenz treten z.B. eher Stimmungsschwankungen auf als bei Alzheimer. Bei der vaskulären Demenz können die Symptome sowohl schleichend als auch ganz plötzlich auftreten. Eine Heilung ist, wie bei Alzheimer, nicht möglich, **jedoch gibt es sehr gute Chancen, gegen die auslösenden Risikofaktoren vorzugehen wie Bluthochdruck etc.**'
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      relation: [ ]
+      _key: textbox
+      _uid: textbox_1553532344798_17191
+  repeater2: [ ]
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553532329691_17048
+- 
+  headline: Angehörige
+  hideheadline: ""
+  keyvisual2:
+    - 3873_rau-angehorige-lg-xl.jpg
+  keyvisual2mobile:
+    - 3873_rau-angehorige-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1555594617757_9717
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: >
+        Bei einer Demenzerkrankung sind viele
+        Patienten in mehr als einer Hinsicht auf
+        die Hilfe Ihrer nächsten Angehörigen
+        angewiesen. Dies betrifft nicht nur
+        aktive gegebenenfalls pflegerische
+        Unterstützung, sondern schon ganz
+        schlichte menschliche Nähe und
+        Sicherheit. Die Angehörigen tragen ganz
+        entscheidend dazu bei, die Patienten im
+        Alltag zu begleiten und zu
+        unterstützen.
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1555594701562_10209
+  repeater2:
+    - 
+      picture:
+        - portrait-team-bieganski@2.jpg
+      margintop: 0
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1555594704915_10392
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Rebecca Bieganski**
+        Praxismanagerin · MS Nurse · Demenz Nurse
+        
+        *Berät Sie gerne*
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1554129421643_38656'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1555594707750_10458
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1555594696406_10059
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  textbox: '<br><br><br><br>'
+  _key: plaintext
+  _uid: plaintext_1555594966417_10942

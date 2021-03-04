@@ -1,0 +1,209 @@
+Title: Migräne
+
+----
+
+Contentelements: 
+
+- 
+  headline: Migräne
+  hideheadline: ""
+  menuhide: nothide
+  keyvisual2:
+    - migraene-md-xl.jpg
+  keyvisual3:
+    - migraene-xs-sm.jpg
+  keyvisualsettings: ""
+  text: ""
+  _key: keyvisual
+  _uid: keyvisual_1552403873037_1872
+- 
+  headline: Allgemeines
+  hideheadline: 'true'
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: '**Mal wieder Kopfschmerzen? Oder doch nur Stress? Migräne zählt zu den am meisten fehleingeschätzten Erkrankungen weltweit:** Jeden Tag sind in Deutschland 900.000 Menschen betroffen. 100.000 Menschen pro Tag sind wegen Migräne arbeitsunfähig. Die Weltgesundheitsorganisation (WHO) rechnet Migräne unter die am meisten belastenden Krankheiten. Gleichzeitig hat nur ca. ein Drittel der deutschen Kopfschmerzpatienten eine gesicherte Diagnose. Noch weniger folgen einem konkreten, individuellen Behandlungsplan, der nicht nur symptomatisch ansetzt, sondern tatsächliche Basisarbeit leistet. **Hier setzt die Arbeit unserer Spezialisten von mind an.**'
+      textclosed: |
+        Eine wirksame Behandlung ist nur dann möglich, wenn zuvor eine genaue **Diagnostik** stattfand. Im Fall der Migräne ist hierbei ein entscheidender Faktor das Gespräch mit Ihrem behandelnden Neurologen. Im **persönlichen Gespräch** werden Fragen geklärt wie:
+        +   Wo und wie treten Ihre Kopfschmerzen auf?
+        +   Wie lange dauern die Attacken an?
+        +   Leiden Sie unter Begleiterscheinungen wie Lichtempfindlichkeit oder Übelkeit?
+        
+        Eine genaue Beschreibung Ihrer Symptome dient als Grundlage der Diagnose.
+        
+        Treten die Schmerzen ganz neu auf, ist es unerlässlich, **andere Erkrankungen auszuschließen** (Differentialdiagnostik). Diesen entscheidenden Schritt in der Diagnostik lösen wir durch verschiedene bildgebende Verfahren und neurologische Tests.
+        
+        Erst, wenn zweifelsfrei feststeht, dass es sich bei Ihren Kopfschmerzen um eine Form der Migräne handelt, entwickelt unser Team für Sie einen individuellen Prophylaxe- und Therapieplan. **Ihre Mitarbeit und Ihr Wissen über Ihre Erkrankung ist dabei wichtig.**
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553165203969_3501
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-rau@2.jpg
+      margintop: 0
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1553165177837_3394
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Dr. med. Cornelia Rau**
+        Fachärztin für Neurologie
+        
+        *Ihre Expertin rund um Migräne, Cluster-Kopfschmerz und Spannungskopfschmerz*
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1553609704973_5763'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553165245402_3812
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553165167611_3285
+- 
+  headline: Prophylaxe
+  hideheadline: ""
+  keyvisual2:
+    - 4737_migrane-lg-xl.jpg
+  keyvisual2mobile:
+    - 4737_migrane-xs-md.jpg
+  keyvisual2_mobile:
+    - 4737_migrane-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553165312007_4266
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: 'Ist die Migräne erst einmal diagnostiziert, gibt es zur Akuttherapie eindeutige, international etablierte Behandlungsempfehlungen. **Bei der Migräne-Prophylaxe ist das Bild weniger eindeutig.** Hier spielen wiederum viele individuelle Faktoren eine große Rolle. Darüber hinaus muss die Prophylaxe, also die schrittweise Reduzierung der Migränetage des Patienten, in ein ganzheitliches, persönlich abgestimmtes Gesamtkonzept eingebunden sein.  Einige Bausteine dafür haben wir hier zusammengetragen:'
+      textclosed: |
+        **Basismaßnahmen:** Als Migränepatient unterstützen Sie Ihre individuelle Gesundheit am besten mit Achtsamkeit und Sorgfalt. Ausdauersport und ein regelmäßiges Schlaf-/Wachmuster gehören ebenso dazu, wie Entspannungsmethoden und gegebenenfalls auch bei starker Betroffenheit eine Psychotherapie. Essentiell ist ein Kopfschmerzkalender, welchen Sie idealerweise online führen und uns monatlich zur Verfügung stellen: Hier können Sie nach und nach Ihre individuellen Trigger feststellen und dokumentieren, welche Maßnahme Ihnen am besten geholfen hat.
+        
+        **Medikamentöse Prophylaxe:** Diese erfolgt, wenn z.B. die Zahl der Migränetage ansteigt, wenn die Akutmedikation nicht ausreicht oder allgemein Ihre Lebensqualität stark durch die Migräne eingeschränkt ist. Hier gibt es verschiedenste Ansätze:
+        + Betablocker: in der Regel bei Bluthochdruck verabreicht, kann ein Betablocker auch in der Migräneprophylaxe sehr gut wirken.
+        +  Antikonvulsiva wie z.B. Topiramat: Hier wird die Reizschwelle der Nervenzellen angehoben, so dass der Schmerzreiz ausbleibt.
+        + Kalziumantagonisten z.B. Flunarizin: damit werden auch Gefäßerkrankungen behandelt.
+        + Neue (link: /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/klinische-studien text: *Migränemedikamente*) wurden in den letzten Jahren entwickelt und werden zunehmend von uns eingesetzt. Diese hemmen z.B.  die Wirkung eines bestimmten Proteins und beugen so Migräneanfällen vor.
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553165427456_4412
+  repeater2:
+    - 
+      headline: Mehr zu Migräneprophylaxe
+      offset: ""
+      color: bright
+      stretch: ""
+      eventlist:
+        - 
+          title: Teilnahme Migräne-Studie
+          target: '/fuer-patienten/fachbereiche-neurologie-und-psychiatrie/klinische-studien#subheadline_1553176325866_1980'
+          _key: menupoints
+          _uid: menupoints_1553165472019_4644
+        - 
+          title: Botox
+          target: '/behandlung#subheadline_1553813394375_677'
+          _key: menupoints
+          _uid: menupoints_1556196050159_18342
+      _key: menubox
+      _uid: menubox_1553165466137_4580
+  _key: twocol
+  _uid: twocol_1553165285315_3995
+- 
+  headline: Therapie
+  hideheadline: ""
+  keyvisual2:
+    - 3824-rau-therapie-lg-xl.jpg
+  keyvisual2mobile:
+    - 3824-rau-therapie-xs-md.jpg
+  keyvisual2_mobile:
+    - 3824-rau-therapie-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553165613442_4943
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: offset
+      color: dark
+      headline: ""
+      stretch: left
+      textopen: |
+        **Individuelle Therapie & Methodik**
+        
+        Eine erfolgreiche Migränetherapie basiert auch auf der  Mitarbeit des Patienten.  Ein zusätzliches Plus: **Je genauer Sie sich selbst kennen, desto besser kann das Zusammenspiel von Prophylaxe und akuter Behandlung wirken.**
+      textclosed: |
+        Leider sind weder die chronische noch die episodische Form der Migräne heute heilbar. Dennoch hat gerade bei der Behandlung einer akuten Attacke die Medizin in den letzten Jahrzehnten entscheidende Fortschritte gemacht:
+        
+        **+ Medikamentöse Therapie mit Schmerzmitteln:** Bei leichten bis mittelschweren Schmerzen ist schon eine Behandlung mit rezeptfreien Schmerzmitteln häufig sehr effektiv.
+        
+        **+ Medikamentöse Therapie mit Triptanen:** Triptane sind heute die am besten untersuchten Wirkstoffe zur akuten Migränebehandlung.  Triptane wirken ganz ähnlich wie das körpereigene Serotonin: Die Weite der Blutgefäße im Gehirn wird reguliert und gleich-zeitig die Freisetzung von entzündlichen Eiweißstoffen genauso gestoppt wie die Weiterleitung von Schmerzimpulsen. Triptane dürfen jedoch nicht zu häufig eingenommen werden.
+        
+        **+ Depression:** Viele Migränepatienten haben ein höheres Risiko, zusätzlich an einer Depression oder Angststörung zu erkranken. Sprechen Sie mit unseren Experten aus dem Fachbereich Psychiatrie!
+        
+        **Besonders wichtig:** Auch als Migränepatient müssen nicht mit Schmerzen leben. Ein »Aushalten«  ist kein Zeichen persönlicher Stärke. Das Gegenteil ist der Fall: Denn Schmerz erzeugt stets mehr Schmerz. Das Team von mind möchte Sie dabei unterstützen, selbst aktiv zu werden und Ihre Gesundheit in die Hand zu nehmen.
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553165643278_5200
+  repeater2:
+    - 
+      headline: Mehr zur Migräne-Therapie
+      offset: ""
+      color: bright
+      stretch: ""
+      eventlist:
+        - 
+          title: Schmerzen
+          target: '/behandlung#subheadline_1554120028824_21638'
+          _key: menupoints
+          _uid: menupoints_1553165685313_5421
+        - 
+          title: Schulungen
+          target: ""
+          _key: menupoints
+          _uid: menupoints_1553165690166_5463
+        - 
+          title: Botox
+          target: '/behandlung#subheadline_1553813394375_677'
+          _key: menupoints
+          _uid: menupoints_1553165694553_5505
+        - 
+          title: Verhaltenstherapie
+          target: /behandlung
+          _key: menupoints
+          _uid: menupoints_1553165699009_5547
+      _key: menubox
+      _uid: menubox_1553165678570_5357
+  _key: twocol
+  _uid: twocol_1553165638473_5095
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: '<br><br><br>'
+  _key: plaintext
+  _uid: plaintext_1555589811925_32411

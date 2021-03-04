@@ -1,0 +1,884 @@
+Title: Praxisteam
+
+----
+
+Contentelements: 
+
+- 
+  headline: Ihr Team klinische Studien
+  hideheadline: default
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: 'true'
+  _key: subheadline
+  _uid: subheadline_1554129339940_37506
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: ""
+  category: ""
+  name: Christine Rau
+  position: >
+    Studienkoordination · MS-Nurse ·
+    Headache Nurse
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-rau-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: Qualifikationen
+          stretch: ""
+          textopen: |
+            <br>
+            <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/praxisteam/635380892-1580903650/zertifikat-dmkg-headache-nurse-christine-rau.pdf">Qualifikation zur Headache Nurse (DMKG, 2019)</a>
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554129945729_51117
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554129947686_51268
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554129949184_51419
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554129944760_51060
+  _key: person
+  _uid: person_1554129376000_37641
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Yvonne Leko
+  position: Study Nurse · MS-Nurse
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-leko-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554129980111_51720
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554129981673_51876
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554129983024_52027
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554129979069_51663
+  _key: person
+  _uid: person_1554129380555_37861
+- 
+  headline: Assistenz
+  hideheadline: ""
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: 'true'
+  _key: subheadline
+  _uid: subheadline_1554129383558_38081
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Christina Baumgärtner
+  position: Krankenschwester, Labor
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-baumgartner-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130189040_52634
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130190975_52785
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130192630_52936
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130187754_52577
+  _key: person
+  _uid: person_1554129399605_38216
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: ""
+  category: ""
+  name: Rebecca Bieganski
+  position: >
+    Praxismanagerin · MS Nurse · Demenz
+    Nurse · Headache Nurse
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-bieganski-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: Qualifikationen
+          stretch: ""
+          textopen: |
+            <br>
+            <a target="_blanc" href="https://mind-stuttgart.de/media/pages/die-praxis/unser-team/praxisteam/3114669234-1580903650/zertifikat-dmkg-headache-nurse-bieganki.pdf">Qualifikation zur Headache Nurse (DMKG, 2019)</a>
+            <br>
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130302300_53953
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130303793_54104
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130305234_54255
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130300869_53896
+  _key: person
+  _uid: person_1554129421643_38656
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Martina Edler
+  position: Arztsekretariat
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-edler-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130333798_54616
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130335285_54767
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130336635_54923
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130332757_54559
+  _key: person
+  _uid: person_1554129424747_38876
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Alexandra Elbe
+  position: Medizinische Fachangestellte
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-elbe-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130380634_55278
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130382739_55429
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130384566_55580
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130379195_55221
+  _key: person
+  _uid: person_1554129427133_39096
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Laura Feldkircher
+  position: Medizinische Fachangestellte
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-feldkircher-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130424085_55930
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130426130_56086
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130427620_56237
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130423208_55873
+  _key: person
+  _uid: person_1554129429596_39316
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Katja Hofmann
+  position: Medizinische Fachangestellte
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-hofmann-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130462908_56581
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130464800_56732
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130466171_56883
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130460716_56524
+  _key: person
+  _uid: person_1554129432510_39536
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Angelika Improta
+  position: Medizinische Fachangestellte
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-improta-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130500744_57238
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130502712_57389
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130505134_57540
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130499183_57176
+  _key: person
+  _uid: person_1554129435300_39756
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Franziska Irrera
+  position: >
+    Auszubildende zur Medizinischen
+    Fachangestellten
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-irrera-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130540491_57884
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130542371_58035
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130544206_58186
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130539723_57827
+  _key: person
+  _uid: person_1554129438461_39976
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Kirsten Jäger
+  position: Study Nurse · MS-Nurse
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-jager-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130577684_58530
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130583187_58681
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130586765_58832
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130576505_58473
+  _key: person
+  _uid: person_1554129441364_40196
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Gabriele Meschner
+  position: >
+    Medizinische Fachangestellte ·
+    Datenschutzbeauftragte –
+    Qualitätsmanagement
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-meschner-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130627277_59176
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130628762_59327
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554130630214_59478
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1554130626029_59119
+  _key: person
+  _uid: person_1554129443963_40416
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Stefanie Heinemann
+  position: Medizinische Fachangestellte
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-fr-heinemann.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1599732876409_10297
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1599732876409_10306
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1599732876409_10315
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1599732876377_10240
+  _key: person
+  _uid: person_1599732876249_10050
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Lisa-Marie Schadnik
+  position: >
+    Auszubildende zur Medizinischen
+    Fachangestellten
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-fr-schadnik.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1599733047245_25310
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1599733047245_25319
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1599733047246_25328
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1599733047216_25253
+  _key: person
+  _uid: person_1599733047110_25063
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Zoe Rausch
+  position: >
+    Auszubildende zur Medizinischen
+    Fachangestellten
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-fr-rausch.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1599733091021_26046
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1599733091021_26055
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1599733091021_26064
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1599733090987_25989
+  _key: person
+  _uid: person_1599733090854_25799
+- 
+  headline: Geschäftsleitung
+  hideheadline: default
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: 'true'
+  _key: subheadline
+  _uid: subheadline_1555404361040_25730
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Jochen Rau
+  position: Geschäftsleitung
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-jochen-rau-arztbg-lang.jpg
+  repeater: [ ]
+  _key: person
+  _uid: person_1555404377821_25882
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: '<br>'
+  _key: plaintext
+  _uid: plaintext_1555587823182_15781

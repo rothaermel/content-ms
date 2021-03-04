@@ -1,0 +1,241 @@
+Title: Multiple Sklerose
+
+----
+
+Contentelements: 
+- 
+  headline: 'Corona-Impfung auch bei<br>Multipler Sklerose ratsam.'
+  textbereich: >
+    Aktuelle Infos zur Impfung gegen
+    SARS-CoV-2 für unsere Patienten.
+  versatz: null
+  button: Mehr erfahren
+  link: /corona-impfung
+  repeater: [ ]
+  _key: thumbnailnews
+  _uid: thumbnailnews_1611142835749_8118
+- 
+  headline: Multiple Sklerose
+  hideheadline: ""
+  menuhide: nothide
+  keyvisual2:
+    - ms-md-xl.jpg
+  keyvisual3:
+    - ms-xs-sm.jpg
+  keyvisualsettings: ""
+  text: ""
+  _key: keyvisual
+  _uid: keyvisual_1552401567801_1053
+- 
+  headline: Allgemeines
+  hideheadline: 'true'
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: transparent
+      headline: ""
+      stretch: ""
+      textopen: 'Multiple Sklerose wird häufig die Krankheit der 1.000 Gesichter genannt, da die Erscheinungsformen dieser entzündlichen Nervenerkrankung sehr vielfältig sind. Bis heute ist die Krankheit nicht heilbar – **jedoch gut behandelbar. Das Team von mind hat sich auf die Behandlung der Multiplen Sklerose besonders spezialisiert.** So sind wir mit ca. 1.700 MS-Patienten eines der größten Zentren in Deutschland. **Wir begleiten Sie von der Diagnose bis hin zur individuellen Therapie.**'
+      textclosed: |
+        **Wir beraten, handeln und behandeln nach der Maxime: Wer seine Krankheit versteht, kann besser mit ihr umgehen!** Unter Multipler Sklerose verstehen wir eine chronische Entzündung des Nervensystems, durch Schädigung der Schutzhüllen (Myelinschicht) bestimmter Nervenfasern in Gehirn und Rückenmark. Diese Entzündungen treten an verschiedenen (multiplen) Stellen auf und sorgen für Vernarbungen (Sklerose). **Was heißt das konkret?** Nerven mit geschädigter Myelinschicht können bedeutend schlechter elektrische Impulse weiterleiten. Vereinfacht gesagt: **Die Kommunikationswege werden stark verlangsamt.** Aus einem Anruf in Echtzeit wird ein Brief per Postschiff. Je nachdem, welche Nervenverbindungen betroffen sind, treten entsprechend vielfältige Beschwerden auf:
+        
+        Als Symptome können z.B. Sehstörungen, Bewegungsstörungen oder Gefühlsminderungen auftreten. Ohne Frage: eine komplexe Erkrankung. In den letzten Jahren haben sich jedoch sowohl diagnostische Verfahren, als auch die Vielfalt und Effizienz der möglichen Therapien stark weiterentwickelt. Gepaart mit unserer langjährigen Erfahrung mit den »1.000 Gesichtern« der MS können wir gemeinsam mit Ihnen die individuell beste Therapie entwickeln und Zukunftsperspektiven bieten. **Darüber hinaus können wir fast alle wesentlichen diagnostischen Verfahren direkt bei uns im Haus anbieten.**
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553131156179_3148
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-richter@2.jpg
+      margintop: 0
+      color: transparent
+      _key: profilpic
+      _uid: profilpic_1553131443272_3321
+    - 
+      offset: offset
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        Dr. med. Stephan Richter
+        Facharzt für Neurologie
+        
+        *Einer unserer Experten für die Behandlung der Multiplen Sklerose*
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1553609733685_6013'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553131475997_3418
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553129553108_2895
+- 
+  headline: Frühphase MS
+  hideheadline: ""
+  keyvisual2:
+    - 3902-rau-reflexhammer-lg-xl.jpg
+  keyvisual2mobile:
+    - 3902-rau-reflexhammer-xs-md.jpg
+  keyvisual2_mobile:
+    - 3902-rau-reflexhammer-xs-md.jpg
+  _key: imagefullwidth
+  menuhide: [ ]
+  _uid: imagefullwidth_1611130344215_4454
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: left
+      textopen: |
+        **Frühe Behandlung sichert Lebensqualität.**
+        
+        Direkt nach ihrer Diagnose sind viele Patienten stark verunsichert. Genau jetzt brauchen wir jedoch Ihre volle Aufmerksamkeit: Je früher und konsequenter wir in Ihre Behandlung einsteigen, desto besser sind die Chancen, **Ihren Krankheitsverlauf positiv zu beeinflussen.**
+      textclosed: |
+        Multiple Sklerose ist in über 80 % zu Beginn eine schubförmig verlaufende Erkrankung. Das bedeutet, dass Phasen mit Entzündungen im Gehirn und Rückenmark sich mit Phasen ohne Krankheitsaktivität abwechseln. Manche dieser Entzündungen verlaufen sogar vollkommen unbemerkt. Oft wird nur ein kleiner Teil der Entzündungen als Schub bemerkt. Das Auftreten solcher Entzündungen lässt sich nicht zuverlässig vorhersagen.
+        
+        
+        Je nach Häufigkeit und Lage der Entzündungsherde steigt jedoch das Risiko bleibender Nervenschäden. Ein früher Beginn einer vorbeugenden Behandlung sichert Ihnen deshalb wertvolle Zukunftschancen.
+        
+        
+        Ihr Neurologe von mind wird Sie sorgfältig auf alle Symptome der MS befragen und gründlich untersuchen. **Erst dann wird ein persönlicher Behandlungsplan entwickelt, um eine angemessene und verträgliche Behandlung für Sie zu finden.**
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1611131755283_4818
+  repeater2:
+    - 
+      picture: [ ]
+      margintop: 0
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1611131755291_4827
+    - 
+      offset: offset
+      color: dark
+      headline: ""
+      stretch: 'off'
+      textopen: |
+        *»Mein Ziel ist es, den Patienten so gut wie möglich zu informieren und zu beraten: Was seine spezifischen Symptome angeht, aber vor allem wie es ihm gelingt, die individuelle Therapie positiv mitzugestalten.«*
+        
+        *<sm><b>Dr. med. Stephan Richter,</b> Facharzt für Neurologie über die Frühphase der Multiple Sklerose* </sm>
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1611131755291_4836
+  _key: twocol
+  _uid: twocol_1611131755250_4721
+- 
+  headline: Therapie
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: 'true'
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: 'Die MS-Therapie fußt grundsätzlich auf **drei Säulen: Hilfe bei einem akuten Schub, die langfristige Therapie des Krankheitsverlaufs, die Behandlung der individuellen Symptome.** In allen drei Bereichen steht unser Team Ihnen gern zur Seite: Sei es im Kernbereich der Neurologie, in der Unterstützung durch unsere Psychiater oder falls nötig durch die Behandlung unserer Psychotherapeuten. Wir finden: Am Besten nehmen Sie Ihre Gesundheit selbst in die Hand. **Daher legen wir viel Wert auf die Schulung unserer Patienten.**'
+      textclosed: |
+        Die drei Säulen werden, je nach Situation des Patienten individuell kombiniert.
+        
+        **MS Schub:** Hier gilt es, schnell die Beschwerden der akuten Entzündung lindern und die Dauer verkürzen. Dies geschieht in der Regel mit hochdosiertem Kortison. Folgeschäden an den Nerven können am Besten verhindert werden, wenn rechtzeitig nach Beginn eines Schubes behandelt werden kann.
+        
+        **Langfristige Behandlung:** Das Immunsystem wirkungsvoll und dauerhaft auf Kurs bringen ist hier das Hauptziel. Das bedeutet, dass über verschiedene Wirkstoffe das Immunsystem entweder beruhigt oder aber so moduliert wird, dass die Entzündungen gar nicht erst auftreten.
+        
+        **Behandlung der Symptome:** Hier ist das Spektrum der MS besonders breit. Sie reichen von der Missempfindung, über Gangstörung bis hin zur Depression. Hier ist Ihre Mitarbeit ganz entscheidend – dann können wir gemeinsam mit Ihnen eine optimale Therapie entwickeln. Sprechen Sie mit uns!
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553157356681_1574
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-wagner@2.jpg
+      margintop: 0
+      color: transparent
+      _key: profilpic
+      _uid: profilpic_1553157371232_1727
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: light
+      obenunten: unten
+      textarea: |
+        **Dr. med. Bert Wagner**
+        Facharzt für Neurologie
+        
+        *Versiert in der Entwicklung Ihres individuellen Therapieplanes*
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1553609764443_6242'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553157394423_1818
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553157342185_1464
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      headline: Weiterführende Themen
+      offset: ""
+      color: bright
+      stretch: left
+      eventlist:
+        - 
+          title: Depression
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/depression
+          _key: menupoints
+          _uid: menupoints_1553157499006_2224
+        - 
+          title: Studien zu MS
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/klinische-studien
+          _key: menupoints
+          _uid: menupoints_1553157507213_2308
+      _key: menubox
+      _uid: menubox_1553157482129_2118
+  repeater2:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: ""
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553157526462_2452
+  _key: twocol
+  _uid: twocol_1553157476628_2017
+- 
+  headline: ""
+  hideheadline: ""
+  keyvisual2:
+    - 4116-infusion-lg-xl.jpg
+  keyvisual2mobile:
+    - 4116-infusion-xs-md.jpg
+  keyvisual2_mobile:
+    - 4116-infusion-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553157665591_2659

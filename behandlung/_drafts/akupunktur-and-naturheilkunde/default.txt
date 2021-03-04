@@ -1,0 +1,103 @@
+Title: Akupunktur & Naturheilkunde
+
+----
+
+Contentelements: 
+
+- 
+  headline: 'Akupunktur & Naturheilkunde'
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1553813667793_3042
+- 
+  headline: Akupunktur
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553813908807_3955
+  _key: subheadline
+  _uid: subheadline_1554240348464_4294
+- 
+  title: Akupunktur
+  keyvisual:
+    - 3509_akupunktur-lg-xl.jpg
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    In der Neurologie gibt es zahlreiche Bereiche, die erfolgreich mit Akupunktur behandelt werden.
+    Vor allem bei Patienten mit Spannungskopfschmerzen oder **Migräne** ist die Therapie besonders erfolgreich. So kann zum Beispiel nachweislich die Häufigkeit der Migräne-Schmerzattacken vermindert werden, wenn in der Vorsorge Akupunktur eingesetzt wird. Viele Patienten berichten auch von einer Linderung der Schmerzintensität.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553813908807_3955
+- 
+  headline: Naturheilkunde
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553813684871_3161
+  _key: subheadline
+  _uid: subheadline_1554240369382_4440
+- 
+  title: Naturheilkunde
+  keyvisual:
+    - 5084-homoeopathie-globuli-lg-xl.jpg
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: ""
+  repeater1:
+    - 
+      headline: ""
+      hideheadline: ""
+      menuhide: ""
+      bgcolor: ""
+      relation: ""
+      repeater1:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: 'Bei mind bieten wir die außergewöhnliche Vernetzung von Naturheilkunde,  Homöopathie und Neurologie. Denn wir finden: **Gerade die Breite des Spektrums neurologischer Erkrankungen erfordert ein ebenso breitgefächertes Therapieangebot.** Sprechen Sie mit unseren Spezialisten!'
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553813726957_3429
+      repeater2:
+        - 
+          picture:
+            - portrait-dr-kiefer@2.jpg
+          margintop: 0
+          color: bright
+          _key: profilpic
+          _uid: profilpic_1553813750734_3602
+        - 
+          offset: ""
+          color: dark
+          setelement: ""
+          setelementfarbe: ""
+          obenunten: ""
+          textarea: |
+            **Dr. med. Markus Kiefer**
+            Facharzt für Psychiatrie & Psychotherapie
+            
+            *Herr Dr. Kiefer ist zudem zertifizierter Hypnotherapeut und Naturheikundler*
+          btntitle: Zur Person
+          btntarget: '/die-praxis/unser-team#person_1553598173416_13379'
+          test: ""
+          _key: boxsmall
+          _uid: boxsmall_1553813758847_3668
+      repeater3: [ ]
+      _key: customelement
+      _uid: customelement_1553813717798_3297
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553813684871_3161
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  textbox: '<br><br><br><br>'
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1553813967289_4173

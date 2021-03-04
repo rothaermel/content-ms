@@ -1,0 +1,52 @@
+Title: Labordiagnostik
+
+----
+
+Contentelements: 
+
+- 
+  headline: Labordiagnostik
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1553606724337_3424
+- 
+  headline: Inhouse-Labor
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553606734142_3544
+  _key: subheadline
+  _uid: subheadline_1553615551665_3926
+- 
+  title: Inhouse-Labor
+  keyvisual:
+    - 5127-labor-nacl-lg-xl.jpg
+  keyvisualmobile:
+    - 5127-labor-nacl-xs-md.jpg
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    **Bei mind ist an 5 Tagen in der Woche eine umfangreiche Labordiagnostik möglich.**
+    Neben Routineuntersuchungen wie z.B. Blutbilderstellung führen wir z.B. auch Liquordiagnostik
+    im Hause durch.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553606734142_3544
+- 
+  headline: Liquoruntersuchung
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553787088043_8857
+  _key: subheadline
+  _uid: subheadline_1553787066040_8738
+- 
+  title: Liquoruntersuchung
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    Bei einer **Liquoruntersuchung** wird mit einer Hohlnadel Rückenmarks-Flüssigkeit (Liquor) aus dem Wirbelkanal der Wirbelsäule entnommen. Mit dieser Untersuchung können **Veränderungen in der Zusammensetzung des Liquors** festgestellt werden, die  Hinweise auf Erkrankungen des Nervensystems geben.
+    Die Untersuchung ist in der Regel nicht schmerzhafter als eine Blutentnahme und dauert circa. 20 min.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553787088043_8857

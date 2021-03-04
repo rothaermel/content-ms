@@ -1,0 +1,358 @@
+Title: Alle Elemente
+
+----
+
+Contentelements:
+
+- 
+  headline: Alle Elemente
+  hideheadline: ""
+  menuhide: ""
+  keyvisual2:
+    - kv_start.jpg
+  keyvisual3: [ ]
+  keyvisualsettings: ""
+  text: "1234"
+  _key: keyvisual
+  _uid: keyvisual_1552403556596_942
+- 
+  bgcolor: ""
+  headline: Headline 1
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: >
+    Moditiatini neceatur? Sit rem ea perum
+    harcipsuntor molupta cumendio
+    Einleitungstext hicto eum eatur, si rest
+    et aut voluptatquam renient inus intini
+    sita nem hiliquias. Moderne Methoden…
+  _key: plaintext
+  _uid: plaintext_1552939736196_194
+- 
+  headline: Headline 2
+  textlinks: >
+    Moditiatini neceatur? Sit rem ea perum
+    harcipsuntor molupta cumendio
+    Einleitungstext hicto eum eatur, si rest
+    et aut voluptatquam renient inus intini
+    sita nem hiliquias. Moderne Methoden…
+  textrechts: >
+    Moditiatini neceatur? Sit rem ea perum
+    harcipsuntor molupta cumendio
+    Einleitungstext hicto eum eatur, si rest
+    et aut voluptatquam renient inus intini
+    sita nem hiliquias. Moderne Methoden…
+  _key: texttwocol
+  _uid: twocol_1552939849137_241
+- 
+  textbox: >
+    Moditiatini neceatur? Sit rem ea perum
+    harcipsuntor molupta cumendio
+    Einleitungstext hicto eum eatur, si rest
+    et aut voluptatquam renient inus intini
+    sita nem hiliquias. Moderne Methoden…
+  targetname: Mehr anzeigen
+  targetlink: datenschutz
+  _key: textwithbutton
+  _uid: textwithbutton_1552953725529_643
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: ""
+  category: ""
+  name: Dr. Frauke Zimmermann
+  position: Fachärztin für Neurologie
+  target: link
+  bgcolor: lightblue
+  removefromnav: ""
+  description: >
+    Ein besonderes Augenmerk setzt sie auf
+    die MS-Früherkennung.
+  personbg:
+    - portrait-dr-preschle.jpg
+  repeater: [ ]
+  details: >
+    Ein besonderes Augenmerk setzt sie auf
+    die MS-Früherkennung.Ein besonderes
+    Augenmerk setzt sie auf die
+    MS-Früherkennung.Ein besonderes
+    Augenmerk setzt sie auf die
+    MS-Früherkennung.Ein besonderes
+    Augenmerk setzt sie auf die
+    MS-Früherkennung.Ein besonderes
+    Augenmerk setzt sie auf die
+    MS-Früherkennung.Ein besonderes
+    Augenmerk setzt sie auf die
+    MS-Früherkennung.Ein besonderes
+    Augenmerk setzt sie auf die
+    MS-Früherkennung.Ein besonderes
+    Augenmerk setzt sie auf die
+    MS-Früherkennung.Ein besonderes
+    Augenmerk setzt sie auf die
+    MS-Früherkennung.
+  _key: person
+  personimage: null
+  _uid: person_1552956021863_738
+- 
+  headline: Nerven
+  introbox: 'Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?'
+  textleftopen: |
+    Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?
+    Links
+  textleftclosed: |
+    Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?
+    Links
+  picleft:
+    - schmal.png
+  picleftalt: Kurze Beschreibung
+  textrightopen: |
+    Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?
+    Rechts
+  textrightclosed: |
+    Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?
+    Rechts
+  picright:
+    - schmal.png
+  picrightalt: Kurze Beschreibung
+  picleftopen:
+    - schmal.png
+  picrightopen:
+    - schmal.png
+  picleftclosed: [ ]
+  picrightclosed: [ ]
+  _key: accordion
+  _uid: accordion_1552958277056_904
+  leftcontent: null
+  line: null
+  rightcontent: null
+  line-b: null
+- 
+  headline: Hirn
+  hideheadline: ""
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1553031424693_193
+- 
+  title: Überschrift des Akkordeon
+  keyvisual:
+    - >
+      bildschirmfoto-2019-03-19-um-15.20.29.png
+  keyvisualmobile: [ ]
+  keyvisualalttext: test
+  textbox: Das ist ein Test
+  repeater1:
+    - 
+      bgcolor: ""
+      headline: ""
+      checkaccordeon: ""
+      marginleft: ""
+      fixed: ""
+      textbox: Text
+      _key: plaintext
+      _uid: plaintext_1562232393208_3019
+    - 
+      headline: Platzhalterbild
+      hideheadline: ""
+      keyvisual2: [ ]
+      keyvisual2mobile: [ ]
+      _key: imagefullwidth
+      _uid: imagefullwidth_1562232315682_2866
+  headline: Tab Titel 1
+  showheadline: ""
+  _key: accordionfullwidth
+  tablist: [ ]
+  _uid: accordionfullwidth_1553028369465_980
+- 
+  title: Elektroencephalographie
+  keyvisual:
+    - >
+      bildschirmfoto-2019-03-19-um-15.20.29.png
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?
+    
+    Arum ut ipitium rem et, es moluptaquia cum harchilibus il exer ferum ratus molectatquos nonecate dolesequam, ommoles accat ur?** Individuelle Therapie & Methodik**
+  repeater1: [ ]
+  headline: Tab TItel 2
+  showheadline: hide
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553028508639_1162
+- 
+  title: Elektroencephalographie
+  keyvisual:
+    - >
+      bildschirmfoto-2019-03-19-um-15.20.29.png
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?
+    
+    Arum ut ipitium rem et, es moluptaquia cum harchilibus il exer ferum ratus molectatquos nonecate dolesequam, ommoles accat ur?** Individuelle Therapie & Methodik**sd
+  repeater1: [ ]
+  headline: Tab TItel 2
+  showheadline: hide
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553028508639_1162
+- 
+  title: Elektroencephalographie
+  keyvisual:
+    - >
+      bildschirmfoto-2019-03-19-um-15.20.29.png
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?
+    
+    Arum ut ipitium rem et, es moluptaquia cum harchilibus il exer ferum ratus molectatquos nonecate dolesequam, ommoles accat ur?** Individuelle Therapie & Methodik**sd
+  repeater1: [ ]
+  headline: Tab TItel 2
+  showheadline: hide
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553028508639_1162
+- 
+  headline: Headline
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: 'Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?'
+      textclosed: 'Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?'
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553098490867_2558
+    - 
+      offset: ""
+      color: dark
+      headline: ""
+      stretch: ""
+      textopen: 'Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?'
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553507339803_2928
+  repeater2:
+    - 
+      picture:
+        - profilbild.png
+      margintop: null
+      color: ""
+      _key: profilpic
+      profilpic: [ ]
+      _uid: profilpic_1553098227491_2647
+    - 
+      offset: offset
+      color: dark
+      setelement: ""
+      setelementfarbe: ""
+      obenunten: ""
+      textarea: |
+        **Dr. Frauke Zimmermann**
+        Fachärztin für Neurologie
+        
+        <color>Ein besonderes Augenmerk setzt sie auf die MS-Früherkennung.</color>
+      btntitle: Zur Person
+      btntarget: /fuer-patienten
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553099311618_2514
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: ""
+      textopen: 'Maio. Itae sunt earibus andam, est faccuscit parchitis reriofsff mollace perrovit vendae. As volorionem. Most, optat et restia volupta qu aeri si quatur rs est. **Wie geht das mind vor?** odipid es est fuga. Nem apictur, ventur?'
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553507346824_3097
+  repeater3:
+    - 
+      headline: Headline
+      offset: top
+      color: dark
+      stretch: ""
+      eventlist:
+        - 
+          title: Punkt 1
+          target: '/all#modalbox_1553432016645_2626'
+          _key: menupoints
+          _uid: menupoints_1553102023902_2679
+        - 
+          title: Punkt 2
+          target: https://www.dart.work
+          _key: menupoints
+          _uid: menupoints_1553129974135_2845
+      bgcolor: ""
+      _key: menubox
+      line-a: null
+      _uid: menubox_1553102020509_2629
+  _key: customelement
+  _uid: customelement_1553098225592_2602
+- 
+  title: ""
+  inline: ""
+  link: ""
+  bgcolor: lightblue
+  repeater:
+    - 
+      headline: Anfahrt
+      _key: googlemaps
+      _uid: googlemaps_1553432028897_2715
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: |
+        **Kontakt**
+        mind GmbH
+        Charlottenstraße 14, 70182 Stuttgart
+        Geschäftsführung; Jochen Rau
+        
+        **Telefon**: 0711 12 898 000
+        **Telefax**: 0711 12 898 088
+        **E-Mail:** (link:  info@neuro-mvz.de text: info@neuro-mvz.de)
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553439380053_2584
+  headline: Anfahrt
+  _key: modalbox
+  _uid: modalbox_1553432016645_2626
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      title: TEST Formular
+      inline: ""
+      link: ""
+      bgcolor: lightblue
+      repeater:
+        - 
+          _key: formulartest
+          patinet: null
+          _uid: formulartest_1565882807242_4333
+      _key: modalbox
+      _uid: modalbox_1565882804803_4204
+  repeater2: [ ]
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1565882801664_4054

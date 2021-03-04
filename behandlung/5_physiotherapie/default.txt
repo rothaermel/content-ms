@@ -1,0 +1,67 @@
+Title: Physiotherapie
+
+----
+
+Contentelements: 
+
+- 
+  headline: Physiotherapie
+  hideheadline: ""
+  hidefromkey: ""
+  openelement: accordionfullwidth_1553814008700_5017
+  _key: subheadline
+  _uid: subheadline_1553813480182_1525
+- 
+  title: Physiotherapie
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: ""
+  repeater1:
+    - 
+      headline: ""
+      hideheadline: ""
+      menuhide: ""
+      bgcolor: ""
+      relation: ""
+      repeater1:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: 'Immer wenn Störungen des zentralen oder peripheren Nervensystems oder Unfallfolgen Bewegungsabläufe einschränken, können wir mit unserem **Physiotherapie-Team von mind** wieder für mehr Mobilität sorgen und Selbstständigkeit in Ihrem Alltag ermöglichen. Die Therapieziele richten sich ganz nach Ihrem individuellen Krankheitsbild. Sprechen Sie mit uns!'
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553814026795_5274
+      repeater2:
+        - 
+          picture:
+            - portrait-team-bieganski@2.jpg
+          margintop: 0
+          color: bright
+          _key: profilpic
+          _uid: profilpic_1553814044484_5447
+        - 
+          offset: ""
+          color: dark
+          setelement: ""
+          setelementfarbe: ""
+          obenunten: ""
+          textarea: |
+            **Rebecca Bieganski**
+            Praxismanagerin
+            
+            *Unsere Praxismanager beraten Sie gerne!*
+          btntitle: Zur Person
+          btntarget: '/die-praxis/unser-team#person_1554129421643_38656'
+          test: ""
+          _key: boxsmall
+          _uid: boxsmall_1553814051065_5513
+      repeater3: [ ]
+      _key: customelement
+      _uid: customelement_1553814023758_5142
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553814008700_5017

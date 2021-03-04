@@ -1,0 +1,41 @@
+Title: Psyche
+
+----
+
+Contentelements: 
+
+- 
+  headline: Psyche
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1553606820202_4757
+- 
+  headline: 'Kognitive Fähigkeiten & psychischer Befund'
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553606827304_4877
+  _key: subheadline
+  _uid: subheadline_1553615633872_5882
+- 
+  title: 'Kognitive Fähigkeiten & psychischer Befund'
+  keyvisual:
+    - 3873_rau-angehorige-lg-xl.jpg
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    Neurologische Erkrankungen können den Zustand der Psyche und die **kognitiven (geistigen) Fähigkeiten** des Patienten beeinträchtigen. Umgekehrt können auch psychische Erkrankungen neurologische Ausfälle verursachen. Ihr Arzt wird Ihr Sprach- und Kommuniaktionsvermögen untersuchen, genauso wie Ihre Fähigkeit, Dinge zu erkennen und zu rechnen.
+    Zudem ist die psychische Grundsituation sehr wichtig: Liegt zum Beispiel eine eingeschränkte Merkfähigkeit vor oder kann sich der Patient nur schwer konzentrieren? Bemerkt er an sich eine geänderte Bewusstseinslage (z.B. Schläfrigkeit) oder eine veränderte Grundstimmung? All diese Fragen sind für den psychischen Befund entscheidend.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553606827304_4877
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  textbox: '<br><br><br><br>'
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1553606852008_5248

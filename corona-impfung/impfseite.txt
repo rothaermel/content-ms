@@ -1,0 +1,92 @@
+Title: Corona-Impfung
+
+----
+
+H1: Patienteninformation zur<br>Corona-Impfung
+
+----
+
+Headerimage: 
+
+- >
+  keyvisual-corona-impfung-mind-stuttgart.jpg
+
+----
+
+Headerimagemobile: 
+
+- mind-covid-impfung-mobile-xs-md.jpg
+
+----
+
+Contentelements: 
+
+- 
+  textbox: |
+    <span style="font-size: 16px">Stand 15.02.2021</span>
+    <br>
+    
+    **Seit wenigen Wochen sind die ersten Impfstoffe der Firmen BioNTech und Meoderna zur Impfung gegen SARS-CoV-2 (auch als "Corona" oder "Covid 19" bekannt") zugelassen. Impfstoffe simulieren eine Infektion mit einem Erreger, ohne die eigentliche Erkrankung auszulösen. Das Immunsystem wird auf ein Virus trainiert und entwickelt Abwehrzellen, die den eigentlichen Erreger sofort erkennen und sogenannten Anitkörper produzierten. Als Ziel dieser körperlichen Abwehr – sozusagen als Trainingsobjekt – dient bei allen inzwischen zugelassenen Covid-Impfstoffen das Stachelprotein an der Oberfläche des Coronavirus. Alle drei Impfstoffe sind keine sogenannten Lebendimpfstoffe.<br>Da wir zur Zeit häufig dieselben Fragen gestellt bekommen, hier einige allgemeine Informationen zur Impfung.**
+    
+    ## Was ist ein RNA-Impfstoff?
+    RNA (Ribonukleinsäure) ist ein Bauplan für ein Protein. Sie ist nicht Teil der DNA (Desoxy-Ribonukleinsäure, also unseres Genoms) sondern in menschlichen Zellen nur die Abschrift eines umschriebenen Teils der DNA. Bei einem RNA-Impfstoff werden kleine Teile der Bauanleitung (RNA) des Erregers, beispielsweise in Micro-Fetttröpfchen, verpackt und in den Körper injiziert. Auf diesem Konzept beruht der erste zugelassene Impfstoff gegen SARS-CoV-2 in Deutschland (BioNTech). Die RNA enthält Informationen (Baupläne) von Proteinen des Coronavirus (Spikeprotein) die für die Infektion gebraucht werden. Die menschlichen Zellen produzieren dann diese Proteinstrukturen des Virus und geben sie nach außen ab. Diese werden dann vom Immunsystem erkannt und eine Immunität hergestellt. RNA dringt auch bei vielen viralen Infekten (z.B. Grippevirus) in Zellen des Körpers ein, mit der Folge, dass dann große Proteine des Virus hergestellt werden. Somit ist der o.g. Ablauf für den Körper nicht neu. Die genannte RNA-Technologie wird von den Firmen BioNTech und Moderna bereits seit Jahren mit guter Verträglichkeit in der Krebstherapie eingesetzt.
+  _key: impfungtext
+  _uid: impfungtext_1611105806122_306
+- 
+  textbox: |
+    <iframe width="740" height="416" src="https://www.youtube.com/embed/0LnkoEOHSiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    *PhD Martin Moder, österreichischer Molekularbiologe, erklärt die Wirkweise und potentiellen Risiken der mRNA-Impfstoffe gegen COVID19. (Video des Robert-Koch-Instituts)*
+  _key: impfunghtmlcode
+  _uid: impfunghtmlcode_1611106020541_393
+- 
+  textbox: |
+    ## Wie oft muss ich geimpft werden?
+    Es sind 2 Impfungen im Abstand von etwa 3 Wochen (BioNTech) bis 4 Wochen (Moderna) empfohlen.
+    
+    ## Was sind Nebenwirkungen der Impfung?
+    Bei dem Impfstoff der Firma BioNTech wurde den Zulassungsbehörden eine Studie mit fast 22.000 geimpften Probanden versus ebenfalls 22.000 mit Plazebo behandelten Probanden vorgelegt. Die Nachbeobachtung betrug 4 Monate.  Etwa 80% der mit Wirkstoff behandelten Probanden hatten an der Einstichstelle Schmerzen. 5% hatten eine leichte lokale Rötung oder Schwellung. Weitere durch den Wirkstoff bedingte Nebenwirkungen waren Fieber bis 38,5° C. (4% bei der ersten Impfung, 15% bei der zweiten Impfung). Bei der zweiten Impfung hatten 0,7% der Probanden Fieber bis 40°C. Weitere vorübergehende  Nebenwirkungen: Abgeschlagenheit 30%, Kopfschmerzen 10%, Kältegefühl 15%, Muskelschmerzen 20%. Fiebersenkende Medikamente wie Ibuprofen oder Paracetamol dürfen nach der Impfung eingenommen werden.
+    Bei dem Impfstoff der Firma Moderna wurden 15.181 Probanden mit dem Wirkstoff behandelt. Die Nebenwirkungen sind etwa vergleichbar mit denen von BioNTech . Nach den bislang vorliegenden medizinischen Daten sind keine relevanten Unterschiede bezüglich Wirksamkeit und Verträglichkeit zwischen den Impfstoffen von BioNTech oder Moderna zu erkennen.
+    
+    ## Wie stark ist die Wirkung der Impfung?
+    In der Zulassungsstudie war die Infektionsquote mit COVID 19 nach der Impfung um 95% niedriger als bei den mit Placebo behandelten Probanden. Die Wirkung setzte allerdings erst 2-3 Wochen nach der ersten Impfung ein.
+    
+    ## Kann die Impfung bei einer Multiplen Sklerose durchgeführt werden?
+    Prinzipiell ja. Bisher gibt es keine Hinweise, dass die Impfung nicht bei Autoimmunerkrankungen durchgeführt werden kann. Der Impfstoff kann in die bisherigen Kategorien Tot Impfstoff oder Lebend Impfstoff nicht eingeordnet werden. Virale Infekte (Grippe) können auch Schübe auslösen. Vermutlich ist die schubauslösende Wirkung einer Impfung geringer als die einer Infektion.
+    Die Deutsche Gesellschaft für Neurologie äußert sich wie folgt:
+    *„Grundsätzlich stellt die Diagnose MS keine Kontraindikation gegen Impfungen im Allgemeinen sowie auch gegen die Impfung gegen SARS-CoV-2 dar, die Betroffenen sollten also gemäß den Empfehlungen der Ständigen Impfkommission des Robert Koch-Instituts geimpft werden. Bei Patienten unter Immuntherapie sind jedoch laut Stellungnahme verschiedene Aspekte zu beachten. Die neuen Impfstoffe gegen SARS-CoV-2 sind sogenannte mRNA-Impfstoffe. Die mRNA wird nur von wenigen Körperzellen aufgenommen, die in Folge Proteine produzieren, die das Immunsystem aktivieren. Im Gegensatz zur Lebendimpfung werden bei diesen zunächst zugelassenen Impfstoffen keine vermehrungsfähigen Krankheitserreger verabreicht. Das neuartige mRNA-Impfprinzip wird daher von den Experten konzeptuell den Totimpfstoffen zugeordnet.“*
+    
+    ## Ist die Impfung während einer MS-Therapie möglich?
+    Nach den bisherigen Erkenntnissen ist bei allen MS-Therapeutika eine Impfung möglich. Noch nicht geklärt ist, ob insbesondere bei den Antikörpern gegen B-Lymphozyten oder Lymphozyten-reduzierenden Medikamenten (Ocrelizumab, Fingolimod, Cladribin) schon nach zwei Impfungen eine ausreichende Wirkung vorhanden ist. Gegebenenfalls muss hier eine dritte Impfung erfolgen.
+    
+    
+    ## Wie steht es um den Impfstoff von AstraZeneca?
+    Seit Ende Januar ist als dritter Impfstoff ein sogenannter Vektor-Impfstoff von AstraZeneca zugelassen. Vektor-Impfstoffe werden bereits Seite vielen Jahren erfolgreich angewendet. Sie sind keine RNA-Impfstoffe. Der Begriff Vektor steht für "Transportvehikel", mit dem ein Bruchstück des Bauplans des Coronavirus in den menschlichen Körper geschleust wird. Hierfür wird ein Schimpansen-Erkältungsvirus genutzt, bei dem zuvor die Möglichkeit, sich zu vermehren, ausgelöscht wurde. Diese Erkältungsvirus gehört zu der Gruppe der sogenannten Adenoviren, die wir alle gut als lästige Schnupfen- und Erkältungsviren kennen. Ein Schimpansen-Erkältungsvirus wird deshalb genutzt, damit wir Menschen den Vektor nicht aufgrund von früheren Erkältungen mit Adenoviren sofort als fremd erkennen und die Wirkung herabsetzen. Auch dieser Impfstoff bringt den Bauplan des Stachelproteins des Coronavirus in menschlichen Zellen, also wie die RNA-Impfstoffe von BioNTech oder MODERNA. Bei allen 3 Impfstoffen produzieren die menschlichen Zellen kurzfristig das Stachelprotein der Coronaviren und bringen es an die ihre Zelloberfläche. Der Impfstoff von AstraZeneca hat den Vorteil, dass er bei Kühlschranktemperatur gelagert werd kann. Die Wirksamkeit des Impfstoffes von AstraZeneca scheint mit 70% etwas geringer als bei den anderen beiden Impfstoffen zu sein. Die Zulassungsstudie wird von Fachleuten kritisiert da kaum Teilnehmer mit dem Alter von über 55 Jahren daran teilgenommen haben und somit Unklarheit über die Wirksamkeit im höheren Alter besteht. Das heißt aber nicht dass er unwirksam ist, nur die genaue Wirksamkeit bei älteren Menschen kann derzeit nicht angegeben werden.
+    In Großbritannien wird der Wirkstoff seit Wochen für alle Altersgruppen eingesetzt. In Deutschland wird eine Impfung über 65 Jahre derzeit noch nicht empfohlen. Von der Verträglichkeit scheint der Wirkstoff von AstraZeneca vergleichbar mit den beiden anderen zu sein. Die zweite Impfung kann bei dem Präparat von AstraZeneca nach derzeitigen Erkenntnissen auch erst einige Monate später gemacht werden.
+    
+    Update der DMSG vom 12.02.2021:
+    *Aktuelle Erfahrungen aus Israel mit 500 MS-Patienten, die den mRNA Impfstoff von BioNTech erhalten haben, zum Teil auch schon die zweite Impfung, haben bisher keine unerwarteten Nebenwirkungen oder Aktivierung der MS gezeigt (Acheron A., Sheba Medical Center, persönliche Mitteilung). Die fehlende Datenbasis lässt derzeit keine Empfehlung für eine bestimmten der aktuell in der EU zugelassenen Corona-Impfstoffe zu. Durch Analogieschlüsse von anderen Impfstoffen und Infektionen bei MS schätzen wir derzeit ein mögliches Schubrisiko oder eine Auswirkung auf die MS-Krankheitsaktivität unter den mRNA basierten Corona-Impfstoffen (BioNTech und Moderna) als gering ein. Und wir schätzen für vektorbasierten Impfstoff von AstraZeneca eine mögliche ungünstige Auswirkung auf die entzündliche Aktivität des Immunsystems autoimmunerkrankter Personen durch den zugrundeliegenden, nicht im Menschen vermehrungsfähigen Adenovirus ein. Basis für die Einschätzung sind die in den Zulassungsstudien aufgetretenen bestätigen Verdachtsfälle von Traverser Myelitis (autoimmune, akut-entzündliche Erkrankung des Rückenmarks, gegen Myelinscheiden gerichtet). Konkrete Daten zur Abschätzung des Risiko-Nutzen -Verhältnisses der einzelnen Corona-Impfstoffe liegen uns aktuell noch nicht vor, da die Impfungen erst im Dezember 2020 mit den ersten verfügbaren Impfstoffen begonnen haben.
+    Wir erachten allerdings das Risiko, derzeit schwerer an Covid-19 zu erkranken und in der Folge auch eine mögliche Verschlechterung der MS zu erfahren, als sehr viel höher ein. Für eine Impfung sollte eine MS-THerapie nicht unterbrochen werden, da die Auswirkungen der Unterbrechung auf die MS höher einzuschätzen ist sind als eine geminderte Immunantwort durch die MS-Therapie.*
+    
+    ## Wie komme ich an eine Impfung?
+    Da nicht alle von Anfang an geimpft werden können, wird von Seiten der (link: https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen.html text: Gesundheitsämter target:_blank) priorisiert. Zuerst werden die Risikogruppen geimpft. Wann Sie genau geimpft werden können, erfahren Sie am besten aus der Presse. Eine Aufforderung zur Impfung wird nicht erfolgen.
+    Zur Impfung anmelden können Sie sich wie folgt:
+    Telefonisch über die 116117 (häufig überlastet) oder im auch im Internet über (link: https://www.116117.de target:_blank text: www.116117.de) oder (link: https://www.impfterminservice.de text: www.impfterminservice.de target:_blank).
+  _key: impfungtext
+  _uid: impfungtext_1611106089384_469
+- 
+  textarea: |
+    ### PRESSEMITTEILUNG <br>KKNMS
+    Stellungnahme des Kompetenznetzes Multiple Sklerose KKNMS zu Impfungen einschließlich gegen SARS-CoV-2 (auch unter Corona oder COVID-19 bekannt)
+    bei MS-Betroffenen.
+  btntitle: Download PDF
+  btntarget:
+    - >
+      stellungnahme-covid-19-impfung-ms_pressetext_kknms_dmsg.pdf
+  _key: impfungdownload
+  offset: [ ]
+  color: dark
+  setelement: empty
+  setelementfarbe: ""
+  obenunten: unten
+  _uid: impfungdownload_1611103241518_336

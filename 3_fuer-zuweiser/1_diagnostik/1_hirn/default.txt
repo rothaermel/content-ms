@@ -1,0 +1,127 @@
+Title: Elektrophysiologie
+
+----
+
+Contentelements: 
+
+- 
+  headline: Diagnostik
+  hideheadline: ""
+  menuhide: nothide
+  keyvisual2:
+    - 4477-patientin-diagnostik-lg-xl.jpg
+  keyvisual3:
+    - 4477-kv-patientin-diagnostik-xs-md.jpg
+  keyvisualsettings: maxheight
+  text: ""
+  _key: keyvisual
+  _uid: keyvisual_1552476401273_771
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: activate
+  marginleft: ""
+  textbox: |
+    Moderne Neurologie und Psychiatrie verfügen über ein breites Spektrum an diagnostischen Methoden.
+    **Die hier aufgeführten Untersuchungsmethoden bieten wir bei mind direkt im Haus an.**
+  addextraspace: activate
+  _key: plaintext
+  _uid: plaintext_1553814234997_7765
+- 
+  headline: Elektrophysiologie
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  hideheadline2: ""
+  _key: subheadline
+  _uid: subheadline_1553613599916_733
+- 
+  headline: Elektroneurographie
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553606452790_1267
+  _key: subheadline
+  _uid: subheadline_1554242964685_29394
+- 
+  title: Elektroneurographie
+  keyvisual:
+    - 4903-richter-ultraschall-hoch-lg-xl.jpg
+  keyvisualmobile:
+    - 4903-richter-ultraschall-xs-md.jpg
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    **Mit der Elektroneurographie** (ENG) wird die **elektrische Leitfähigkeit** einzelner Nerven untersucht, vor allem der peripheren Nerven in den Armen und Beinen. Dabei wird über auf der Haut platzierten Elektroden die Nervenleitgeschwindigkeit ermittelt, also wie gut und wie schnell der Nerv die elektrischen Signale weiterleitet. Mit Hilfe der Elektroneurographie lassen sich Nervenverletzungen und Nervenerkrankungen feststellen.
+    Die Untersuchung ist gänzlich schmerzfrei und führt nur gelegentlich zu Hautreizungen an den Klebestellen der Elektroden. Sie dauert in der Regel 5-10 min.
+  repeater1:
+    - 
+      bgcolor: ""
+      headline: ""
+      checkaccordeon: ""
+      marginleft: ""
+      textbox: ""
+      addextraspace: ""
+      _key: plaintext
+      _uid: plaintext_1553784705243_861
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553606452790_1267
+- 
+  headline: Elektroenzephalographie
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1554243090466_29573
+- 
+  title: Elektroenzephalographie
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    **Die Elektroenzephalographie zeichnet elektrische Ströme auf, die bei der Tätigkeit des Gehirns entstehen.** Mit dem EEG können Veränderungen der Hirnaktivität und Funktionsstörungen des Gehirns erkannt werden. Bei Schädigungen oder Störungen des Gehirns oder bestimmter Gehirnbezirke verändert sich die elektrischen Aktivität signifikant, was im EEG durch eine Änderung der abgebildeten Kurven wiedergegeben wird.
+    Die Untersuchung ist gänzlich schmerzfrei und dauert in der Regel 20 min.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553785418370_1218
+- 
+  headline: Evozierte Potentiale
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553606548561_1930
+  _key: subheadline
+  _uid: subheadline_1554243113004_29719
+- 
+  title: Evozierte Potentiale
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    Hier werden **elektrische Aktivitäten des Gehirns** aufgezeichnet, die als Reaktion auf bestimmte Außenreize (visuell, akustisch, sensibel) entstehen. Jeder Sinnesreiz löst im Gehirn sogenannte elektrische Potentialänderungen aus. Diese werden über das Verfahren »evozierte Potentiale« hervorgerufen (evoziert) und gemessen.
+    Die Untersuchung ist gänzlich schmerzfrei und führt nur gelegentlich zu Hautreizungen. Sie dauert in der Regel 10 min.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553606548561_1930
+- 
+  headline: Elektromyographie
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553785460118_1418
+  _key: subheadline
+  _uid: subheadline_1554243130258_29865
+- 
+  title: Elektromyographie
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: 'Bei der Elektromyographie erfolgt eine **Messung der Muskelaktivität**. Hierfür werden feine Nadelelektroden in den Muskel eingestochen. Jeder Muskel wird von einem Nerv angesteuert. Ob der Impuls zur z.B. Muskelkontraktion tatsächlich ankommt, kann durch die EMG-Messung beurteilt werden. Die Untersuchung ist nicht schmerzhafter als beispielsweise die Anwendung einer Akupunkturnadel. Sie dauert in der Regel 15 min.'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553785460118_1418
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  textbox: ""
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1553786046839_2222

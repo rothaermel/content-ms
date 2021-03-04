@@ -1,0 +1,35 @@
+Title: Studien
+
+----
+
+Contentelements: 
+
+- 
+  headline: Studien
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1554134499978_73827
+- 
+  headline: ""
+  picture:
+    - platzhalter.png
+  hideheadline: ""
+  textarea: |
+    Unser Team arbeitet intensiv an ausgewählten **klinischen Studien aus dem Bereich Neurologie** mit.
+    So sind wir stets am Puls der medizinschen Entwicklung und können für Sie die bestmögliche Therapie entwickeln.
+  targetname: Mehr lesen
+  targetlink: './die-praxis/unser-team#subheadline_1554129339940_37506'
+  targetsubpages: ""
+  _key: thumbnail
+  _uid: thumbnail_1554233723140_3932
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  addextraspace: ""
+  marginleft: ""
+  textbox: ""
+  _key: plaintext
+  _uid: plaintext_1554235093475_7189

@@ -1,0 +1,48 @@
+Title: Medikation
+
+----
+
+Contentelements: 
+
+- 
+  headline: Medikation
+  hideheadline: default
+  hidefromkey: ""
+  openelement: accordionfullwidth_1553812146618_5468
+  _key: subheadline
+  _uid: subheadline_1553812132970_5338
+- 
+  title: Medikamentöse Therapie
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: >
+    Viele neurologische Erkrankungen werden
+    mit einer individuell abgestimmten
+    Medikamentengabe behandelt. Diese
+    basiert stets auf der sorgfältigen
+    Diagnostik und Anamnese durch Ihren
+    behandelnden Arzt. Zusätzlich
+    kontrollieren wir in Absprache mit Ihnen
+    stets die Wirkungsweise und optimieren
+    dort, wo es für Sie eine bessere
+    Alternative gibt.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553812146618_5468
+- 
+  headline: Infusionstherapie
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553812200187_5868
+  _key: subheadline
+  _uid: subheadline_1554240188285_880
+- 
+  title: Infusionstherapie
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: 'Gerade unsere **Multiple Sklerose-Patienten** sind bei einem akuten Krankheitsschub auf die Möglichkeit der Infusionsbehandlung angewiesen. Aber auch andere Erkrankungen erfordern die intravenöse Medikamentengabe – entweder ganz regelmäßig oder nur im akuten Fall. In unseren Praxisräumen bieten wir die Möglichkeit einer **ambulanten Infusionstherapie**. Unser Fachpersonal unterstützt Sie hierbei gerne.'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553812200187_5868

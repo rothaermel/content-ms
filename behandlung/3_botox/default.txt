@@ -1,0 +1,23 @@
+Title: Botox
+
+----
+
+Contentelements: 
+
+- 
+  headline: Botox
+  hideheadline: ""
+  hidefromkey: ""
+  openelement: accordionfullwidth_1553813407705_807
+  _key: subheadline
+  _uid: subheadline_1553813394375_677
+- 
+  title: Botulinumtoxin-Behandlung
+  keyvisual:
+    - 3860-rau-botox-lg-xl.jpg
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: '**Botulinumtoxin oder auch Botox** wird in der modernen Medizin vielfältig eingesetzt. Das starke Nervengift wirkt durch eine Unterbrechung der Impulsübertragung vom Nerven auf den Muskel. Somit kann eine Botoxinjektion abnorm überaktive Muskeln entspannen und somit Schmerzen und Verkrampfungen lindern. Dies wird z.B. sehr erfolgreich bei sogenannten **Dystonien** (griechisch: »falsche Spannung«) eingesetzt, die besonders häufig im Hals- und Nackenbereich auftreten. Zusätzlich kann Botox auch bei besonders starken, **chronischen Migränefällen** positive Wirkung zeigen.'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553813407705_807

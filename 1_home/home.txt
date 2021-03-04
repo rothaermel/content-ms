@@ -1,0 +1,337 @@
+Title: Neurologie persönlich
+
+----
+
+Contentelements: 
+
+- 
+  headline: 'Wir sind auch in Zeiten<br>von Corona für Sie da.'
+  textbereich: |
+    Scheuen Sie sich nicht, bei Krankheitsanzeichen ärztliche Hilfe zu suchen.
+    Wir haben einige Regeln aufgestellt, um Ihren Praxisbesuch so sicher wie möglich zu gestalten.
+  versatz: null
+  button: Mehr erfahren
+  link: /corona
+  repeater:
+    - 
+      headline: >
+        Corona-Impfung auch bei Multipler
+        Sklerose ratsam.
+      textbereich: >
+        Aktuelle Infos zur Impfung gegen
+        SARS-CoV-2 für unsere Patienten.
+      button: Mehr erfahren
+      versatz: null
+      link: /corona-impfung
+      _key: newsaddon
+      _uid: newsaddon_1614708085361_3200
+  _key: thumbnailnews
+  _uid: thumbnailnews_1563367626355_2839
+- 
+  headline: Neurologie persönlich.
+  hideheadline: ""
+  menuhide: hide
+  keyvisual2:
+    - allgemein-md-xl.jpg
+  keyvisual3:
+    - allgemein-xs-sm.jpg
+  keyvisualsettings: ""
+  text: "1234"
+  _key: keyvisual
+  _uid: keyvisual_1552403556596_942
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: null
+  repeater1:
+    - 
+      headline: 'Unsere Schwerpunkte und Leistungen:'
+      offset: top
+      color: ""
+      stretch: 'off'
+      eventlist:
+        - 
+          title: Multiple Sklerose
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/multiple-sklerose
+          _key: menupoints
+          _uid: menupoints_1553113523040_561
+        - 
+          title: Schlaganfall
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/schlaganfall
+          _key: menupoints
+          _uid: menupoints_1553113539950_605
+        - 
+          title: Demenz
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/demenz
+          _key: menupoints
+          _uid: menupoints_1553113547926_649
+        - 
+          title: Parkinson
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/parkinson
+          _key: menupoints
+          _uid: menupoints_1553113555510_693
+        - 
+          title: Periphere Erkrankungen
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/periphere-nervenerkrankungen
+          _key: menupoints
+          _uid: menupoints_1553113566549_737
+        - 
+          title: Depression
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/depression
+          _key: menupoints
+          _uid: menupoints_1553113583075_781
+        - 
+          title: Migräne
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/migraene
+          _key: menupoints
+          _uid: menupoints_1553113592634_825
+        - 
+          title: Behandlung
+          target: /behandlung
+          _key: menupoints
+          _uid: menupoints_1553113602155_869
+      bgcolor: dark
+      _key: menubox
+      line-a: null
+      _uid: menubox_1553112658025_387
+  repeater2:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: 'off'
+      textopen: |
+        **Aus NEURO-MVZ wurde mind: **
+        
+        Unser neuer Name leitet sich ab von »Medizin individuell« , denn Ihre Gesundheit und Ihre spezifische Situation stehen für unsere Spezialisten für Neurologie und Psychiatrie stets im Fokus. Für uns gilt:
+        Wir nehmen Ihre Gesundheit persönlich.
+        
+        Und arbeiten mit Ihnen an** Perspektiven für Ihr Leben.**
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553112666563_454
+  offset: ""
+  color: ""
+  _key: twocol
+  _uid: twocol_1553112654753_338
+- 
+  headline: 'Wir sind: mind'
+  hideheadline: ""
+  keyvisual2:
+    - 4020-dres-start-lg-xl.jpg
+  keyvisual2mobile:
+    - 4053-kv-dres-richter-wagner-xs-md.jpg
+  _key: imagefullwidth
+  textbox: null
+  _uid: imagefullwidth_1553120792403_839
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: null
+  repeater1:
+    - 
+      headline: 'Lernen Sie uns kennen:'
+      offset: ""
+      color: bright
+      stretch: left
+      eventlist:
+        - 
+          title: Ärzte
+          target: '/die-praxis/unser-team#subheadline_1553875438236_4240'
+          _key: menupoints
+          _uid: menupoints_1553121775822_1167
+        - 
+          title: Assistenz
+          target: '/die-praxis/unser-team#subheadline_1554129383558_38081'
+          _key: menupoints
+          _uid: menupoints_1553121806165_1211
+        - 
+          title: Veranstaltungen
+          target: '/die-praxis/engagement#Veranstaltungen'
+          _key: menupoints
+          _uid: menupoints_1553121823910_1299
+        - 
+          title: Anfahrt
+          target: '/die-praxis/service-and-kontakt#Anfahrt'
+          _key: menupoints
+          _uid: menupoints_1553121832718_1343
+        - 
+          title: Termin
+          target: '/die-praxis/service-and-kontakt#subheadline_1554132065651_62222'
+          _key: menupoints
+          _uid: menupoints_1553121838659_1387
+      bgcolor: ""
+      _key: menubox
+      _uid: menubox_1553121754201_1120
+  repeater2:
+    - 
+      offset: offset
+      color: dark
+      headline: ""
+      stretch: ""
+      textopen: |
+        <p><color>»mind – das kommt von: Medizin individuell. Und so verstehen wir unsere Aufgabe als Team. Denn so individuell wie die Krankheitsbilder der Neurologie so persönlich  entwickeln &nbsp;wir Ihre Therapie.«</color>
+        </p>
+        
+        <color><sm><b>Dr. Stephan Richter & Dr. Bert Wagner,</b>
+        Fachärzte für Neurologie bei mind Stuttgart</sm></color>
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553121849670_1449
+  offset: ""
+  color: leftbright
+  _key: twocol
+  _uid: twocol_1553121717556_909
+- 
+  headline: Informationen zu Corona
+  hideheadline: ""
+  keyvisual2:
+    - mind-stuttgart-team.jpg
+  keyvisual2mobile:
+    - mind-stuttgart-team.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1611139889666_12221
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: offset
+      color: dark
+      headline: ""
+      stretch: ""
+      textopen: |
+        **Trotz Corona-Pandemie: Nehmen Sie Ihre Symptome ernst**
+        Zu Hause zu bleiben ist gegen eine Ansteckung mit Viren hilfreich, aber für den Verlauf von neurologischen Erkrankungen denkbar schlecht. Hier ist ärztliche Hilfe absolut notwendig. Wir haben alle Vorbereitungen getroffen, Ihren Besuch bei uns so sicher wie möglich zu gestalten.
+        
+        (link: /corona text: Das sollten Sie beachten class:single_btn darkblue no-space)
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1611140160723_12708
+  repeater2:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: ""
+      textopen: |
+        **Corona-Impfung bei Multipler Sklerose: Was gilt es zu beachten?**
+        Bislang ist kein höheres Risiko durch Impfungen bei MS-Patienten bekannt.
+        Wir haben für Sie die aktuellen Erkenntnisse rund um die Impfstoffe gegen Covid-19 zusammengefasst.
+        
+        (link: /corona-impfung text: Mehr lesen class:single_btn lightblue no-space)
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1611140163049_12895
+  _key: twocol
+  _uid: twocol_1611140156364_12581
+- 
+  headline: Klinische Studien bei mind
+  hideheadline: ""
+  keyvisual2:
+    - 5048-labor-spritzen-lg-xl.jpg
+  keyvisual2mobile:
+    - 5048-kv-labor-spritzen-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553122400490_1624
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 150
+  repeater1:
+    - 
+      headline: Unsere aktuellen Patientenstudien
+      offset: top
+      color: ""
+      stretch: ""
+      eventlist:
+        - 
+          title: Laufende Studien
+          target: '/fuer-patienten/fachbereiche-neurologie-und-psychiatrie/klinische-studien#subheadline_1553176325866_1980'
+          _key: menupoints
+          _uid: menupoints_1553122488243_1892
+        - 
+          title: FAQ Studien
+          target: '/fuer-patienten/fachbereiche-neurologie-und-psychiatrie/klinische-studien#subheadline_1553176198003_528'
+          _key: menupoints
+          _uid: menupoints_1553122533904_1936
+        - 
+          title: Bisherige Studien
+          target: '/fuer-patienten/fachbereiche-neurologie-und-psychiatrie/klinische-studien#subheadline_1553176370475_2566'
+          _key: menupoints
+          _uid: menupoints_1553122547257_1986
+        - 
+          title: Team Studien
+          target: '/die-praxis/unser-team#subheadline_1554129339940_37506'
+          _key: menupoints
+          _uid: menupoints_1553122563954_2028
+      bgcolor: dark
+      _key: menubox
+      _uid: menubox_1553122465069_1845
+    - 
+      picture:
+        - portrait-team-rau@2.jpg
+      margintop: 170
+      color: transparent
+      offset: ""
+      _key: profilpic
+      _uid: profilpic_1553127826671_1961
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: light
+      obenunten: unten
+      textarea: |
+        **Christine Rau**
+        Studienkoordination
+        
+        <color>Betreut und organisiert unsere Teilnahme an ausgewählten Studien</color>
+      btntitle: zur Person
+      btntarget: '/die-praxis/unser-team#person_1554129376000_37641'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553126593525_1935
+  repeater2:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: ""
+      textopen: |
+        **Warum wir an Studien mitwirken**
+        
+        Neue Therapien und Medikamente zu entwickeln ist gerade in Deutschland einem sehr strikten Reglement unterworfen: Das Wohl des Patienten steht stets im Mittelpunkt. Wir von mind möchten den immer komplexeren Anforderungen für Ihre Gesundheit nicht nur gerecht werden, sondern auch **gezielt an der Zukunft der Medizin mitarbeiten.**
+      textclosed: 'Denn Ihre individuelle Therapie darf kein Zufallsergebnis sein. Alle Studien werden sorgfältig geplant, ständig geprüft und detailliert ausgewertet. **Die Vorteile für den Studienteilnehmer** liegen auf der Hand: intensive, engmaschige Betreuung und die Behandlung mit der besten zur Zeit bekannten Therapie dienen Ihrer Gesundheit. Und gleichzeitig tragen Sie persönlich mit unserem Team dazu bei, dass es ebenfalls Erkrankten in vielleicht schon naher Zukunft besser gehen kann.'
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553122585917_2114
+  offset: ""
+  color: ""
+  _key: twocol
+  _uid: twocol_1553122436707_1758
+
+----
+
+Download: 

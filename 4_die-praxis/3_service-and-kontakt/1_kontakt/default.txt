@@ -1,0 +1,217 @@
+Title: Kontakt
+
+----
+
+Contentelements: 
+
+- 
+  headline: Persönlicher Service
+  hideheadline: ""
+  menuhide: nothide
+  keyvisual2:
+    - 3575-kv-service-team-lg-xl.jpg
+  keyvisual3:
+    - 3575-kv-service-team-xs-md.jpg
+  keyvisualsettings: nofullscreen
+  _key: keyvisual
+  _uid: keyvisual_1553477363897_5921
+- 
+  headline: 'Kontakt & Öffnungszeiten'
+  hideheadline: 'true'
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: transparent
+      headline: ""
+      stretch: ""
+      textopen: |
+        Wir möchten Ihnen den Aufenthalt in unserer Praxis so angenehm wie möglich machen, daher bitten wir Sie, **ein paar Dinge zu beachten:**
+        + Bringen Sie Ihre Krankenversichertenkarte und gegebenenfalls eine Überweisung mit, wenn Sie zum ersten Mal bei uns sind und zu Beginn eines neuen Quartals.
+        + Hat Ihnen Ihr Hausarzt bzw. der Zuweiser Unterlagen mitgegeben? Bitte nehmen Sie diese mit!
+        
+        **Unsere Öffnungszeiten**
+        Montag - Donnerstag
+        08.00 Uhr bis 17.00 Uhr
+        Freitag 08.00 Uhr bis 13.30 Uhr
+        Sprechzeiten nach Vereinbarung
+        
+        Offene Sprechstunde
+        Montag - Freitag
+        08.00 Uhr bis 09.00 Uhr
+        
+        **Unsere Anschrift**
+        mind mvz GmbH
+        Charlottenstraße 14
+        70182 Stuttgart
+        Telefon: 0711-12 898 000
+        Telefax: 0711-12 898 088
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553481002116_1528
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: ""
+      textopen: |
+        **Achtung geänderte Öffnungszeiten !!!**
+        
+        Liebe Patientinnen und Patienten,
+        unser Zentrum ist am Donnerstag 21.01.2021 in der Zeit von 13.30Uhr bis 17.00Uhr geöffnet.
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1562857415979_28593
+  repeater2:
+    - 
+      picture:
+        - portrait-team-edler@2.jpg
+      margintop: 0
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1553481013046_1709
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Martina Edler**
+        Arztsekretariat
+        
+        *Kümmert sich persönlich um Ihre Belange.*
+        
+        ***Telefon: 0711-12 898 000***
+        *(link: mailto:empfang@mind-stuttgart.de text: empfang@mind-stuttgart.de)*
+      btntitle: ""
+      btntarget: ""
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553481023010_1786
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553480987941_1414
+- 
+  headline: Termin vereinbaren
+  hideheadline: ""
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1554132065651_62222
+- 
+  bgcolor: light
+  headline: ""
+  checkaccordeon: ""
+  marginleft: activ
+  fixed: ""
+  textbox: 'Unsere Patienten betreuen wir gerne mit der angemessenen Zeit und Aufmerksamkeit – denn so wird »Neurologie persönlich«. Daher bitten wir Sie, Ihren **Termin bei uns entweder via Telefon oder über das untenstehende Formular zu vereinbaren!** Für unsere **Kollegen Zuweiser** haben wir hier ein entsprechend anderes Formular hinterlegt.'
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1554132644620_62427
+- 
+  bgcolor: 'true'
+  size: ""
+  space: ""
+  marginbottom: null
+  repeater1:
+    - 
+      title: Termin für Patienten
+      inline: ""
+      link: ""
+      bgcolor: lightblue
+      repeater:
+        - 
+          _key: formularpatient
+          patinet: null
+          _uid: formularpatient_1554132843748_63863
+      _key: modalbox
+      _uid: modalbox_1554132817819_63677
+  repeater2:
+    - 
+      title: Termin für Zuweiser
+      inline: ""
+      link: ""
+      bgcolor: darkblue
+      repeater:
+        - 
+          _key: formularzuweiser
+          email: null
+          _uid: formularzuweiser_1554132846042_63928
+      _key: modalbox
+      _uid: modalbox_1554132830024_63755
+  _key: twocol
+  _uid: twocol_1554132809496_63526
+- 
+  bgcolor: light
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: ""
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1554133019393_64738
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: 'true'
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: 'Sie benötigen einen Termin für eine Spezialsprechstunde  für die Themen **Schlaganfall, Multiple Sklerose, Morbus Parkinson** oder Gedächtnisstörungen? Dann nutzen Sie gerne den Kontakt rechts!'
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1554132856743_64155
+  repeater2:
+    - 
+      picture:
+        - portrait-team-rau@2.jpg
+      margintop: null
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1554132873915_64334
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Christine Rau**
+        Study Nurse · MS-Nurse
+        *Steuert die Terminvergabe für Spezialsprechstunden
+        Telefon: 0711-12 898 000*
+        *(link: mailto:spezialsprechstunde@mind-stuttgart.de text: spezialsprechstunde@mind-stuttgart.de)*
+      btntitle: ""
+      btntarget: ""
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1554132875907_64405
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1554132851941_64023
+- 
+  headline: 'Wir suchen ab sofort:'
+  textbereich: |
+    - Medizinischer Fachangestellter (m/w/d)<br>
+    - Azubi zum Medizinischen Fachangestellten (m/w/d)
+  button: Zur Bewerbung
+  link: '/die-praxis/unser-team#customelement_1559640947369_503'
+  repeater: [ ]
+  _key: thumbnailnews
+  _uid: thumbnailnews_1563369888711_2625

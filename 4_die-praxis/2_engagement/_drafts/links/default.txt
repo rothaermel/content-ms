@@ -1,0 +1,36 @@
+Title: Links & Glossar
+
+----
+
+Contentelements: 
+
+- 
+  headline: 'Links & Glossar'
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1554134499978_73827
+- 
+  headline: ""
+  picture:
+    - platzhalter.png
+  hideheadline: ""
+  textarea: >
+    Iminctus rerum voluptat voloreri
+    dignimus vid quatemo disquibus invera
+    conesci psundelendic te net ut alibusd
+    aecersp ienient otatiur?
+  targetname: Mehr lesen
+  targetlink: ""
+  targetsubpages: ""
+  _key: thumbnail
+  _uid: thumbnail_1554234520413_6096
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  addextraspace: ""
+  textbox: ""
+  _key: plaintext
+  _uid: plaintext_1554235052174_6543

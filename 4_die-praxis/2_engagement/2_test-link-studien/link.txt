@@ -1,0 +1,17 @@
+Title: Studien
+
+----
+
+Headline: Klinische Studien
+
+----
+
+Test: /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/klinische-studien
+
+----
+
+Url: /fuer-patienten/fachbereiche-neurlogie-und-psychatrie/ueber-uns
+
+----
+
+Contentelements: 

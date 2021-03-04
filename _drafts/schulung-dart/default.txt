@@ -1,0 +1,29 @@
+Title: Schulung
+
+----
+
+Contentelements: 
+
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      title: ""
+      inline: ""
+      link: ""
+      bgcolor: lightblue
+      repeater:
+        - 
+          _key: formulartest
+          patinet: null
+          _uid: formulartest_1565881921670_484
+      _key: modalbox
+      _uid: modalbox_1565881918978_355
+  repeater2: [ ]
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1565881914421_205

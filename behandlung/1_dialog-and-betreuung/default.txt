@@ -1,0 +1,118 @@
+Title: Dialog
+
+----
+
+Contentelements: 
+
+- 
+  headline: Behandlung
+  hideheadline: ""
+  menuhide: hide
+  keyvisual2:
+    - 4192-labor-baumgaertner-lg-xl.jpg
+  keyvisual3:
+    - 4192-kv-labor-baumgaertner-xs-md.jpg
+  keyvisualsettings: nofullscreen
+  _key: keyvisual
+  _uid: keyvisual_1553615912982_9809
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: activate
+  marginleft: ""
+  textbox: 'Unseren Leitsatz »Neurologie persönlich« nehmen wir auch im Bereich der Therapie ganz wörtlich: Dies bedeutet, dass auch hier jede Behandlung begleitet wird von fachkundiger Beratung und einem angemessenen Arztgespräch. **mind leitet sich ab von »Medizin individuell«. Und so handeln wir.**'
+  addextraspace: activate
+  _key: plaintext
+  _uid: plaintext_1553615994677_10004
+- 
+  headline: Dialog
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1553616050435_10634
+- 
+  headline: 'Anamnese & Arztgespräch'
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553616137003_10797
+  _key: subheadline
+  _uid: subheadline_1554210505108_1408
+- 
+  title: 'Anamnese & Arztgespräch'
+  keyvisual:
+    - 3703-preschle-mrt-lg-xl.jpg
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: 'Jedes Arztgespräch ist so individuell wie der Patient. Der Dialog ist der zentrale Baustein für Diagnostik und Therapie und beginnt zumeist mit der **Anamnese** (griechisch für »Erinnerung«). Jedes weitere **Gespräch** fußt auf diesem Erstdialog. Die Anamnese verfolgt mehrere Ziele: Der Arzt möchte hier die Beschwerden des Patienten nachvollziehen und medizinisch relevante Informationen für das weitere Vorgehen gewinnen. Ärzte orientieren sich hierfür, je nach Erkrankung, an einem Schema das verschiedene Grundfragen klärt wie z.B. die bisherige Krankengeschichte und Körperfunktionen, Erkrankungen innerhalb der Familie, eingenommene Medikamente und gegebenenfalls auch das Umfeld des Patienten.  Ihr Arzt führt Sie hier durch das Gespräch. Hilfreich ist, wenn Sie z.B. eine Liste der derzeit eingenommenen Medikamente mitbringen und über Ihre bisherige Krankengeschichte oder vergangene Operationen Bescheid wissen.'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553616137003_10797
+- 
+  headline: Psychotherapie
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553811894836_3984
+  _key: subheadline
+  _uid: subheadline_1554212422082_1576
+- 
+  title: Psychotherapie
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: ""
+  repeater1:
+    - 
+      headline: ""
+      hideheadline: ""
+      menuhide: ""
+      bgcolor: ""
+      relation: ""
+      repeater1:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: 'Die Psychotherapeuten bei mind bieten ein breites Therapiespektrum an – dazu gehört u.a. die **kognitive Verhaltenstherapie.** Diese wird z.B.  erfolgreich eingesetzt bei **Depression und Burnout**. Aber auch im ganzheitlich-therapeutischen Ansatz bei MS, Parkinson oder Migräne. Ob für Ihre individuellen Beschwerden eine psychotherapeutische Begleitung das Richtige ist, ermitteln wir gern gemeinsam mit Ihnen!'
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1553811908019_4241
+      repeater2:
+        - 
+          picture:
+            - portrait-team-marhofer@2.jpg
+          margintop: 0
+          color: bright
+          _key: profilpic
+          _uid: profilpic_1553811937918_4414
+        - 
+          offset: ""
+          color: dark
+          setelement: ""
+          setelementfarbe: ""
+          obenunten: ""
+          textarea: |
+            **Madeleine Marhöfer**
+            Psychotherapeutin
+          btntitle: Zur Person
+          btntarget: '/die-praxis/unser-team#subheadline_1555317974129_2491'
+          test: ""
+          _key: boxsmall
+          _uid: boxsmall_1553812003808_4577
+      repeater3: [ ]
+      _key: customelement
+      _uid: customelement_1553811903701_4109
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553811894836_3984
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  textbox: ""
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1553812086390_4808

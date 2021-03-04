@@ -1,0 +1,284 @@
+Title: Psychotherapeuten
+
+----
+
+Contentelements: 
+
+- 
+  headline: Ihre Psychotherapeuten
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: 'true'
+  _key: subheadline
+  _uid: subheadline_1555082378237_200
+- 
+  headline: Dominik Gaida
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1580898025037_44827
+- 
+  headline: ""
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Dominik Gaida
+  position: Psychotherapeut
+  target: ""
+  bgcolor: lightblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - portrait-team-gaida-q90.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1580898098959_45169
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1580898098959_45178
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1580898098960_45187
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1580898098924_45112
+  _key: person
+  _uid: person_1580898098843_44922
+- 
+  headline: Jenny Häufle
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1580897885045_44536
+- 
+  headline: Jelena Crnoglavac
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1599488091244_9186
+- 
+  headline: Stephanie Angelmaier
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1599488079366_9097
+- 
+  headline: Madeleine Marhöfer
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1599488071471_9008
+- 
+  headline: ""
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Lena Trifunovic
+  position: Psychotherapeutin
+  target: ""
+  bgcolor: lightblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - portrait-team-fr-trifunovic.jpg
+  repeater: [ ]
+  _key: person
+  _uid: person_1555082493754_787
+- 
+  headline: ""
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Stephanie Angelmaier
+  position: Psychotherapeutin
+  target: ""
+  bgcolor: lightblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - portrait-team-fr-angelmaier.jpg
+  repeater: [ ]
+  _key: person
+  _uid: person_1599488641869_9344
+- 
+  headline: ""
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Madeleine Marhöfer
+  position: Psychotherapeutin
+  target: ""
+  bgcolor: lightblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - portrait-team-marhofer-lang.jpg
+  repeater: [ ]
+  _key: person
+  _uid: person_1599484194230_4235
+- 
+  headline: ""
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Jelena Crnoglavac
+  position: Psychotherapeutin
+  target: ""
+  bgcolor: lightblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - portrait-team-fr-crnoglavac.jpg
+  repeater: [ ]
+  _key: person
+  _uid: person_1599484333548_8505
+- 
+  headline: ""
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Jenny Häufle
+  position: Psychotherapeutin
+  target: ""
+  bgcolor: lightblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - portrait-team-haeufle-q90.jpg
+  repeater: [ ]
+  _key: person
+  _uid: person_1580897979216_44631
+- 
+  headline: Dr. biol.hum. Nicola Weismann
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1555317987146_2637
+- 
+  headline: Lena Trifunovic
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1599484502164_8775
+- 
+  headline: ""
+  hideheadline: 'true'
+  hideperson: 'true'
+  category: ""
+  name: Nicola Weismann
+  position: Psychotherapeutin
+  target: ""
+  bgcolor: lightblue
+  removefromnav: 'true'
+  description: ""
+  personbg:
+    - portrait-team-weismann-lang.jpg
+  repeater:
+    - 
+      repeater:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1555082782488_2034
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1555082784784_2195
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1555082786640_2356
+      contactfield: ""
+      _key: tabmenu
+      _uid: tabmenu_1555082781263_1977
+  _key: person
+  _uid: person_1555082496748_1043
+- 
+  headline: Freddie
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1555404079247_14727
+- 
+  headline: ""
+  hideheadline: ""
+  hideperson: 'true'
+  category: ""
+  name: Freddie
+  position: >
+    Nebenwirkungsfreier Stimmungsaufheller
+    (Zukünftiger Therapiehund)
+  target: ""
+  bgcolor: lightblue
+  removefromnav: ""
+  description: ""
+  personbg:
+    - portrait-team-xhund-lang.jpg
+  repeater: [ ]
+  _key: person
+  _uid: person_1555404144753_14884

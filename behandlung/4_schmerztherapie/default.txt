@@ -1,0 +1,25 @@
+Title: Schmerzen in der Neurologie
+
+----
+
+Contentelements: 
+
+- 
+  headline: Schmerzen in der Neurologie
+  hideheadline: default
+  hidefromkey: ""
+  openelement: accordionfullwidth_1554120037365_21768
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1554120028824_21638
+- 
+  title: >
+    Schmerzen bei neurologischen
+    Erkrankungen
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: 'Neurologische Erkrankungen gehen auf vielfältige Weise mit unterschiedlichsten Formen von Schmerzen einher. Daher ist unser Team aus Neurologen und Psychiatern immer auf dem neuesten Stand der medizinischen Forschung, was die Behandlung krankheitsspezifischer Schmerzen anbelangt. Für unsere **Migränepatienten** beispielsweise bieten wir ein breites Spektrum bestens erprobter Behandlungsmöglichkeiten. Das gleiche gilt auch für die Therapie der **Schmerzen bei** (link: /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/multiple-sklerose text: **Multipler Sklerose**).'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1554120037365_21768

@@ -1,0 +1,111 @@
+Title: Offene Stellen
+
+----
+
+Contentelements: 
+
+- 
+  headline: 'Offene Stellen '
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: 'true'
+  darkcolor:
+    - 'true'
+  _key: subheadline
+  _uid: subheadline_1559642687316_605
+- 
+  headline: Medizinischer Fachangestellter (m/w/d)
+  hideheadline: 'true'
+  menuhide: hide
+  bgcolor: ""
+  relation: ""
+  repeater1: [ ]
+  repeater2: [ ]
+  repeater3:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: ""
+      textopen: |
+        <br>
+        **Wir suchen:**
+        
+        ### Medizinische(r) Fachangestellte(r) (m/w/d)
+        in Voll- und Teilzeit, zum nächstmöglichen Termin.
+        
+        Wir sind ein Medizinisches Versorgungszentrum für Neurologie und Psychiatrie
+        mit angeschlossenem Studienzentrum und bekannt für unseren Multiple-Sklerose-Schwerpunkt.
+        <br>
+        **Wir bieten:**
+        • ein sehr kollegiales und dynamisches Team
+        • eine verantwortungsvolle und selbstständige Tätigkeit
+        • familienfreundliche Arbeitszeiten
+        • einen individuellen und unbefristeten Arbeitsvertrag
+        • Anbindung an den öffentlichen Nahverkehr
+        <br>
+        **Ihr Profil:**
+        • Sie sind ausgebildete(r) Medizinische(r) Fachangestellte(r) (MFA)
+        • Sie haben eine hohe Patientenorientierung
+        • Sie besitzen Teamfähigkeit und Empathie
+        <br>
+        Wir freuen uns auf Ihre aussagekräftige Bewerbung per Post oder E-Mail.
+        
+        
+        (email: jochen.rau@mind-stuttgart.de text: Jetzt bewerben class: btn bg_light)
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1559640959465_653
+  _key: customelement
+  _uid: customelement_1559640947369_503
+- 
+  headline: >
+    Auszubildender (Medizinischer
+    Fachangestellter) (m/w/d)
+  hideheadline: 'true'
+  menuhide: hide
+  bgcolor: ""
+  relation: ""
+  repeater1: [ ]
+  repeater2: [ ]
+  repeater3:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: ""
+      textopen: |
+        <br>
+        **Wir suchen:**
+        
+        ### Azubi (Medizinischer Fachangestellter) (m/w/d)
+        zum 01. September 2021
+        
+        Wir sind ein Medizinisches Versorgungszentrum für Neurologie und Psychiatrie
+        mit angeschlossenem Studienzentrum und bekannt für unseren Multiple-Sklerose-Schwerpunkt.
+        <br>
+        **Wir bieten:**
+        • ein sehr kollegiales und dynamisches Team
+        • eine verantwortungsvolle Tätigkeit
+        • Anbindung an den öffentlichen Nahverkehr
+        <br>
+        **Ihr Profil:**
+        • Sie möchten Medizinische(r) Fachangestellte(r) werden
+        • Sie sind kontaktfreudig und zugewandt
+        • Sie besitzen Teamfähigkeit und Empathie
+        • Sie sind gewissenhaft und verschwiegen
+        <br>
+        Wir freuen uns auf Ihre aussagekräftige Bewerbung per Post oder E-Mail.
+        
+        
+        (email: jochen.rau@mind-stuttgart.de text: Jetzt bewerben class: btn bg_light)
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1580891076881_7786
+  _key: customelement
+  _uid: customelement_1580891076818_7658

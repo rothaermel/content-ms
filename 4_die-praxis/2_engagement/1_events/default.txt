@@ -1,0 +1,168 @@
+Title: Veranstaltungen
+
+----
+
+Contentelements: 
+
+- 
+  headline: mind Engagement
+  hideheadline: ""
+  menuhide: nothide
+  keyvisual2:
+    - veranstaltung_md-xl.jpg
+  keyvisual3:
+    - veranstaltung_xs-sm.jpg
+  keyvisualsettings: nofullscreen
+  _key: keyvisual
+  _uid: keyvisual_1554133933162_68023
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: activate
+  marginleft: ""
+  fixed: ""
+  textbox: 'mind möchte mehr sein, als ein medizinisches Versorgungszentrum! Daher bieten wir unseren Patienten ein breites Spektrum an **Schulungen und Veranstaltungen** an – rund um unsere Schwerpunktthemen aus der Neurologie. Darüberhinaus sind wir sehr engangiert im Bereich der **klinischen Studien** und somit stets am Puls der Zeit.'
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1554133957410_68189
+- 
+  headline: Veranstaltungen
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1554134247294_71905
+- 
+  title: 'AKTUELL: Patientenschulung zur Schlaganfall-Vorsorge'
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: ""
+  repeater1:
+    - 
+      headline: ""
+      hideheadline: ""
+      menuhide: ""
+      bgcolor: ""
+      relation: ""
+      repeater1:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: 'Sie hatten bereits einen Schlaganfall oder zählen zu einer Risikogruppe? Wir bieten im Jahr 2019 mehrere Prophylaxe-Schulungen für Patienten nach und zur Vermeidung eines Schlaganfalls an. Die genauen Termine geben wir in Kürze bescheid! **Tragen Sie sich bei Interesse in unseren E-Mailverteiler ein (Kontakt rechtsstehend) – so verpassen Sie nicht die Terminankündigung.**'
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554134270787_72297
+      repeater2:
+        - 
+          picture:
+            - portrait-team-meschner@2.jpg
+          margintop: null
+          color: bright
+          _key: profilpic
+          _uid: profilpic_1554134283593_72487
+        - 
+          offset: ""
+          color: dark
+          setelement: setbefore
+          setelementfarbe: transparent
+          obenunten: unten
+          textarea: |
+            **Gabriele Meschner**
+            Patientenschulungen mind
+            *Melden Sie sich bei Ihr für Infos zu
+            vergangenen Veranstaltungen!*
+            
+            (link: mailto:schulungen@mind-stuttgart.de text: ***schulungen@mind-stuttgart.de***)
+          btntitle: ""
+          btntarget: ""
+          test: ""
+          _key: boxsmall
+          _uid: boxsmall_1554134285292_72553
+      repeater3:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: ""
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554219422366_7862
+      _key: customelement
+      _uid: customelement_1554134266772_72165
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1554134257579_72035
+- 
+  title: 'Vergangen: Patientenveranstaltung Multiple Sklerose 6. April 2019'
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: ""
+  repeater1:
+    - 
+      headline: ""
+      hideheadline: ""
+      menuhide: ""
+      bgcolor: ""
+      relation: ""
+      repeater1:
+        - 
+          offset: ""
+          color: ""
+          headline: ""
+          stretch: ""
+          textopen: 'Wir bedanken uns bei allen Besuchern und Vortragenden, die unsere große MS-Veranstaltung vom 6. April zu einem ganz besonderen Ereignis gemacht haben! In Kürze bieten wir Ihnen hier zum Download eine Sammlung der wichtigsten Vorträge und ein paar Impressionen. **Vielleicht sind sie ja beim nächsten Mal dabei?**'
+          textclosed: ""
+          pic: [ ]
+          picalt: ""
+          _key: textbox
+          _uid: textbox_1554134408786_73098
+      repeater2:
+        - 
+          picture:
+            - portrait-team-rau@2.jpg
+          margintop: null
+          color: bright
+          _key: profilpic
+          _uid: profilpic_1554134418249_73277
+        - 
+          offset: ""
+          color: dark
+          setelement: setbefore
+          setelementfarbe: transparent
+          obenunten: unten
+          textarea: |
+            **Christine Rau**
+            Veranstaltungen mind
+            *Melden Sie sich bei Ihr für Infos zu
+            vergangenen  Veranstaltungen!*
+            
+            (link: mailto:veranstaltungen@mind-stuttgart.de text: ***veranstaltungen@mind-stuttgart.de***)
+          btntitle: ""
+          btntarget: ""
+          test: ""
+          _key: boxsmall
+          _uid: boxsmall_1554134420825_73348
+      repeater3: [ ]
+      _key: customelement
+      _uid: customelement_1554134399440_72966
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1554134381167_72830
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: '<br><br><br><br>'
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1554134496821_73635

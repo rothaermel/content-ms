@@ -1,0 +1,67 @@
+Title: Hilfsmittel
+
+----
+
+Contentelements: 
+
+- 
+  headline: 'Hilfsmittel & Betreuung'
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1554240570365_5164
+- 
+  headline: Betreuung bei Hirnschrittmacher
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553812340581_7279
+  _key: subheadline
+  _uid: subheadline_1553812301260_6727
+- 
+  title: Betreuung bei Hirnschrittmacher
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: >
+    Bei vielen Patienten mit Parkinson
+    lassen sich Zittern, langsame Bewegungen
+    oder andere Symptome allein mit
+    Medikamenten nicht mehr
+    zufriedenstellend ausgleichen. Daher ist
+    seit vielen Jahren die »Tiefe
+    Hirnstimulation« eine etablierte
+    Methode. Hierbei wird dem Patienten ein
+    Schrittmacher implantiert, der
+    regulierende elektrische Impulse abgibt.
+    Bei mind betreuen wir ambulant
+    Patienten, bei denen ein
+    Hirnschrittmacher eingesetzt wurde.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553812340581_7279
+- 
+  headline: Betreuung bei Parkinson-Pumpen
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553812373572_7726
+  _key: subheadline
+  _uid: subheadline_1554240252491_1513
+- 
+  title: Betreuung bei Parkinson-Pumpen
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: >
+    Bei manchen Parkinson-Patienten besteht
+    die Notwendigkeit, durch
+    Medikamentenpumpen eine gleichmäßigere
+    Wirkung zu erreichen. In der Regel wird
+    eine Medikamentenpumpe im Krankenhaus
+    eingestellt. Die Nachsorge übernimmt,
+    falls notwendig, das speziell
+    qualifizierte Pflegepersonal
+    (Parkinson-Nurses) bei mind.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553812373572_7726

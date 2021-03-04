@@ -1,0 +1,50 @@
+Title: Ultraschall
+
+----
+
+Contentelements: 
+
+- 
+  headline: Ultraschall
+  hideheadline: notinmenu
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1553606607162_2759
+- 
+  headline: Farbduplexsonographie
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553606616539_2884
+  _key: subheadline
+  _uid: subheadline_1553615522425_3370
+- 
+  title: Farbduplexsonographie
+  keyvisual:
+    - gruppe-maskieren-87.jpg
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    Die Farbduplexsonographie ist eine **Ultraschalluntersuchung (Sonographie) zur Messung und Darstellung des Blutgefäße.** In der neurologischen Diagnostik untersuchen wir die versorgenden Gefäße und können so Veränderungen der Gefäßwände (Ablagerungen und Wanddicke) und Verengungen der Gefäße (Stenosen) feststellen und allgemein den Verlauf der Blutgefäße abbilden.
+    Die Untersuchung ist gänzlich schmerzfrei. Sie dauert in der Regel bis zu 20 min.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553606616539_2884
+- 
+  headline: Nervensonografie
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553786942146_7491
+  _key: subheadline
+  _uid: subheadline_1553786932149_7361
+- 
+  title: Nervensonografie
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: |
+    Die Nervensonographie ist eine relativ junges diagnostisches Instrument in der Neurologie, denn lange war es nicht möglich, die Nerven selbst sichtbar zu machen. Über die **Nervensonografie** können wir nun  heute vor allem bei Engpasssyndromen (z.B. Karpaltunnelsyndrom), traumatischen Nervenverletzungen, Problemen an peripheren Nerven und Polyneuropathien genauer diagnostizieren und damit auch die Therapie gezielter planen.
+    Die Untersuchung ist gänzlich schmerzfrei. Sie dauert in der Regel bis zu 20 min.
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553786942146_7491

@@ -1,0 +1,172 @@
+Title: Periphere Nervenerkrankungen
+
+----
+
+Contentelements: 
+
+- 
+  headline: 'Periphere Nervenerkrankungen '
+  hideheadline: ""
+  menuhide: nothide
+  keyvisual2:
+    - periphere-md-xl.jpg
+  keyvisual3:
+    - periphere-xs-sm.jpg
+  keyvisualsettings: ""
+  text: ""
+  _key: keyvisual
+  _uid: keyvisual_1552403771439_1537
+- 
+  headline: Allgemeines
+  hideheadline: 'true'
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: 'Vom Bandscheibenvorfall bis zum Karpaltunnelsyndrom, von der Polyneuropathie (Erkrankung mehrerer Nerven) bis zu Nervenschmerz und Sportverletzung: Die **peripheren Nervenerkrankungen umfassen ein besonders breites Spektrum** an Erscheinungsformen. Die peripheren Nerven befinden sich außerhalb von Gehirn und Rückenmark (dem zentralen Nervensystem) – betreffen also häufig den Bewegungsapparat des Körpers (via motorischer Nerven), die Gefühlsempfindungen (sensible Nerven) oder das autonome Nervensystem das für unbewusste Funktionen wie Schweißbildung, Haarwachstum oder auch die Weite der Blutgefäße zuständig ist.'
+      textclosed: 'Schädigungen peripherer Nerven können durch Fehlbelastung und Überlastung, Unfälle, entzündliche Erkrankungen, Tumore, Alkoholismus oder auch Stoffwechselerkrankungen wie Diabetes entstehen. Die Symptome sind so vielfältig wie die Krankheitsbilder und reichen von Kribbeln, Taubheitsgefühlen über stechende oder brennende Schmerzen bis hin zu Lähmungen einzelner Bereiche. Gerade diese Vielfalt der Symptome macht eine detaillierte und sorgfältige Diagnostik so entscheidend. **Die Spezialisten bei mind nehmen sich dafür die nötige Zeit. **'
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553872839343_8193
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-richter@2.jpg
+      margintop: 0
+      color: bright
+      _key: profilpic
+      _uid: profilpic_1553872841322_8366
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Dr. med. Stephan Richter**
+        Facharzt für Neurologie
+        
+        *Erfahren in der komplexen Diagnostik
+        bei Erkrankungen der peripheren Nerven*
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1553609733685_6013'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553872843054_8437
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553872828798_8050
+- 
+  headline: 'Nervenschäden & -verletzungen'
+  hideheadline: ""
+  keyvisual2:
+    - 4903-richter-ultraschall-lg-xl.jpg
+  keyvisual2mobile:
+    - 4903-richter-ultraschall-xs-md.jpg
+  keyvisual2_mobile:
+    - 4903-richter-ultraschall-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553520496498_6624
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: '**Neurologische Begleiterkrankungen im Sport** ist einer der am stärksten wachsenden Bereiche der »American Academy of Neurology«. Darunter fallen **akute Sportverletzungen** die das Nervensystem betreffen. Aber auch Überlastungsschäden, wie zum Beispiel die Reihe von **Engpasssyndromen** vom Karpaltunnelsyndrom bis zum Tarsaltunnelsyndrom (»runners foot«) . Wir bei mind zählen hierzu auch Erkrankungen, die durch einen Mangel an Bewegung entstehen – wie zum Beispiel den **Bandscheibenvorfall**.'
+      textclosed: |
+        **Sportverletzungen:**  Nerven sind insgesamt seltener von Schädigungen betroffen als Muskeln oder Sehnen. Dennoch ist bei Nerven sowohl die Schädigung oft komplexer und die Erholungszeit deutlich länger. Bei Sportlern können die peripheren Nerven auf ganz verschiedene Weise betroffen sein – je nach sportspezifischer Beanspruchung. Eine präzise neurologische Diagnostik z.B. via elektrischer Messungen kann helfen, Langzeitschäden der Nerven zu vermeiden. Die Therapie im Fachbereich der Sportneurologie erfolgt in Zusammenarbeit mit Ihrem Orthopäden und ist ist ebenso individuell wie die Situation des Patienten. **Umso wichtiger ist ein frühzeitiger Start von Diagnostik bis Behandlung.**
+        
+        **Engpasssyndrome:** Hierbei werden Nervenbahnen verengt und damit die Nervenleitgeschwindigkeit herabgesetzt. Neben vielen anderen ist mit Abstand das häufigste das Karpaltunnelsyndrom der Hand.
+        
+        Der** Bandscheibenvorfall** ist keine Seltenheit mehr und kommt am häufigsten im Alter zwischen 30 und 50 vor. Das Spektrum ist hier ebenfalls sehr breit: vom fast unmerkbaren Vorfall bis hin zur Bewegungsunfähigkeit kann alles erfüllt sein. Bildgebende Verfahren helfen bei einer eindeutigen Diagnose und damit auch bei der Entscheidung für die beste Therapie.
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553520540321_6897
+    - 
+      headline: Weiterführende Themen
+      offset: ""
+      color: bright
+      stretch: left
+      eventlist:
+        - 
+          title: Diagnostik
+          target: /fuer-zuweiser/diagnostik
+          _key: menupoints
+          _uid: menupoints_1553530915901_8779
+      _key: menubox
+      _uid: menubox_1553530901256_8715
+  repeater2:
+    - 
+      offset: offset
+      color: dark
+      headline: ""
+      stretch: ""
+      textopen: |
+        *»Periphere Nervenerkrankungen verlangen von Patienten viel Geduld und vom Arzt viel Expertise. Erst eine klare Diagnose ermöglicht ein gezieltes therapeutisches Vorgehen.«*
+        
+        <color><sm><b>Dr. Stephan Richter</b>
+        Facharzt für Neurologie<sm></color>
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553520674563_7165
+  _key: twocol
+  _uid: twocol_1553520527246_6788
+- 
+  headline: Polyneuropathien
+  hideheadline: ""
+  keyvisual2:
+    - 3886-rau-schwinggabel-lg-xl.jpg
+  keyvisual2mobile:
+    - 3886-rau-schwinggabel-xs-md.jpg
+  keyvisual2_mobile:
+    - 3886-rau-schwinggabel-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553530949011_8955
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: left
+      textopen: '**Kribbeln, Schmerzen und Missempfindungen in Füßen und Händen** können erste Anzeichen für eine Polyneuropathie sein. Manche Patienten haben das Gefühl, in Eiswasser zu stehen, andere wiederum spüren Verletzungen an Zehen oder Fingern nicht mehr.** Die Ursachen dafür sind jedoch so vielfältig**, wie bei kaum einer anderen Erkrankung. Etwa 200 mögliche Auslöser sind heute bekannt.'
+      textclosed: |
+        Aus diesem Grund kommt einer **soliden Diagnostik** eine enorme Bedeutung zu. Diese beginnt beim **detaillierten Arztgespräch** über die Beschwerden selbst aber auch zu aktuellen weiteren Erkrankungen, Ihren derzeit eingenommenen Medikamenten und den allgemeinen Lebensgewohnheiten.
+        Häufig wird die Funktion einzelner Nerven mittels **elektrophysiologischen Untersuchung** gemessen. Die Elektroneurografie (NLG) misst, wie schnell Nerven eine Erregung weiterleiten. Die Elektromyografie (EMG) zeichnet die Aktivität eines Muskels in Ruhe und bei Anspannung auf.
+        **Laboranalysen**, z.B. in Form spezieller Blutuntersuchungen, werden herangezogen, um die Ursachen der Polyneuropathie herauszufinden – z.B. wenn der Verdacht besteht, dass Diabetes oder andere Stoffwechselstörungen der Nervenerkrankung zu Grunde liegen. Zusätzlich kann eine Laboranalyse dabei helfen, von anderen Krankheitsbildern mit ähnlicher Symptomatik abzugrenzen.  In manchen Fällen ist eine **Liquoruntersuchung** oder eine **Nervenbiopsie **erforderlich, um die passende Therapie entwickeln zu können.
+        In Deutschland tritt der größte Anteil der Polyneuropathien in Folge einer Erkrankung an Diabetes auf.  Die Ursachen sind hierbei noch nicht abschließend geklärt. Experten vermuten, dass der ständig erhöhte Blutzucker feinste Blutgefäße schädigt, welche die Nerven umgeben und versorgen. Ebenso führt Alkoholmissbrauch häufig zu einer Polyneuropathie. Je früher Sie Ihre Beschwerden einem Neurologen schildern, desto besser stehen die Chancen auf eine effektive Therapie.
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553531047264_9265
+  repeater2: [ ]
+  _key: twocol
+  _uid: twocol_1553531036828_9156
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: '<br><br><br>'
+  _key: plaintext
+  _uid: plaintext_1555589768188_28378

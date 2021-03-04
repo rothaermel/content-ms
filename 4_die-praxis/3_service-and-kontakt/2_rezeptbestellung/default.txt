@@ -1,0 +1,70 @@
+Title: Rezeptbestellung
+
+----
+
+Contentelements: 
+
+- 
+  headline: Rezepte nachbestellen
+  hideheadline: ""
+  hidefromkey: ""
+  openelement: ""
+  fixheadline: ""
+  _key: subheadline
+  _uid: subheadline_1553480161544_883
+- 
+  headline: ""
+  hideheadline: ""
+  keyvisual2:
+    - 4659-rezept-nachbestellung-lg-xl.jpg
+  keyvisual2mobile:
+    - 4659-rezept-nachbestellung-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1554133129528_65947
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: bright
+      headline: ""
+      stretch: left
+      textopen: |
+        **Sie möchten ein Rezept nachbestellen?**
+        
+        Nutzen Sie unseren **Online-Service zur Rezeptbestellung für Medikamente**, die Ihnen als Dauertherapie verordnet wurden (so genannte Wiederholungsrezepte). Alle Rezeptbestellungen werden von uns vor der Abgabe an Sie überprüft. Bitte beachten Sie, dass die Rezeptbestellung online von uns nur dann bearbeitet werden kann, wenn Sie im aktuellen Quartal bereits Ihre Krankenversichertenkarte in der Praxis haben einlesen lassen. **Ihr Rezept liegt innerhalb von 2 Werktagen ab Bestelleingang für Sie bereit.**
+        <br>
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1554133305487_66330
+    - 
+      title: Zum Formular
+      inline: inline
+      bgcolor: lightblue
+      repeater:
+        - 
+          url: 'https://home.cgm-life.de/portal//#/?institution=62c121ad-2f82-403a-b4d6-ef5764e4b738'
+          _key: iframe
+          _uid: iframe_1556195094122_3560
+      _key: modalbox
+      _uid: modalbox_1554277343340_9904
+  repeater2: [ ]
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1554133299985_66198
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  fixed: ""
+  textbox: ""
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1554277463274_10125

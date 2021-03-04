@@ -1,0 +1,177 @@
+Title: Fachbereiche Neurologie und Psychiatrie
+
+----
+
+Contentelements: 
+
+- 
+  headline: 'Fachbereiche Neurologie <br> und Psychiatrie'
+  hideheadline: ""
+  menuhide: nothide
+  keyvisual2:
+    - 4053-kv-dres-richter-wagner-lg-xl.jpg
+  keyvisual3:
+    - 4053-kv-dres-richter-wagner-xs-md.jpg
+  keyvisualsettings: maxheight
+  _key: keyvisual
+  _uid: keyvisual_1553782874616_52028
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: 'true'
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: 'Die Verschränkung der beiden Fachbereiche Neurologie und Psychiatrie war der Grundgedanke bei der Gründung von mind: Beide Disziplinen wirken bei uns zusammen -stets zum Wohl des Patienten. **So wird aus zwei Sparten eine Grundhaltung: »mind – Medizin individuell«**. Unser Team behandelt vor allem diese Krankheitsbilder:'
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553779207617_6804
+  repeater2: [ ]
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553779205488_6672
+- 
+  headline: Multiple Sklerose
+  picture:
+    - thumb_nail_muster.jpg
+  hideheadline: ""
+  textarea: >
+    Derzeit betreuen wir rund 1.700
+    MS-Patienten. Das macht uns zu einem der
+    größten Schwerpunktzentren für
+    Multiple Sklerose. Gerne setzen wir
+    unsere Erfahrungen und Expertise für
+    Sie ein.
+  targetname: Mehr lesen
+  targetlink: >
+    /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/multiple-sklerose
+  targetsubpages: ""
+  _key: thumbnail
+  _uid: thumbnail_1553181682263_274
+- 
+  headline: Schlaganfall
+  picture:
+    - schlaganfall-md-xl.jpg
+  hideheadline: ""
+  textarea: 'Immer mehr Menschen sind von einem Schlaganfall betroffen. Wir betreuen Patienten intensiv nach ihrem Krankenhausaufenthalt, und kümmern uns aktiv um die Schlaganfall-Vorsorge: Egal, ob Sie bereits betroffen waren, oder Ihr Risiko prüfen möchten.'
+  targetname: Mehr lesen
+  targetlink: >
+    /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/schlaganfall
+  targetsubpages: ""
+  _key: thumbnail
+  _uid: thumbnail_1553181815577_496
+- 
+  headline: Periphere Nervenerkrankungen
+  picture:
+    - periphere-md-xl.jpg
+  hideheadline: ""
+  textarea: 'Von Sportverletzung bis Bandscheibenvorfall, von diabetischer Neuropathie bis entzündlicher Erkrankung: Das periphere Nervensystem kann von vielen Krankheitsbildern betroffen sein. Unsere Spezialisten entwickeln für Sie die individuell richtige  Therapie.'
+  targetname: Mehr lesen
+  targetlink: >
+    /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/periphere-nervenerkrankungen
+  targetsubpages: ""
+  _key: thumbnail
+  _uid: thumbnail_1553181874674_760
+- 
+  headline: Migräne
+  picture:
+    - migraene-md-xl.jpg
+  hideheadline: ""
+  textarea: >
+    Bis heute wird Migräne erst sehr spät
+    diagnostiziert. Unser Team von
+    Fachärzten und Pflegekräften hat es
+    sich zur Aufgabe gemacht, Sie mit einer
+    punktgenauen Diagnostik auf dem
+    schnellsten Weg zur individuell
+    richtigen Behandlung zu begleiten.
+  targetname: Mehr lesen
+  targetlink: >
+    /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/migraene
+  targetsubpages: ""
+  _key: thumbnail
+  _uid: thumbnail_1553181882577_876
+- 
+  headline: Demenz
+  picture:
+    - demenz-md-xl.jpg
+  hideheadline: ""
+  textarea: >
+    Das Team von mind bietet für die
+    Betreuung von Demenzkranken nicht nur
+    versierte Neurologen und Psychiater.
+    Unsere ausgebildeten Demenz-Nurses
+    unterstützen sowohl den Patienten als
+    auch die Angehörigen.
+  targetname: Mehr lesen
+  targetlink: >
+    /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/demenz
+  targetsubpages: ""
+  _key: thumbnail
+  _uid: thumbnail_1553181896974_1054
+- 
+  headline: Parkinson
+  picture:
+    - parkinson-md-xl.jpg
+  hideheadline: ""
+  textarea: >
+    Bis heute ist Morbus Parkinson nicht
+    heilbar. Aber mit einer effektiven
+    Therapie, die alle Faktoren dieser
+    degenerativen Erkrankung
+    berücksichtigt, ist eine deutliche
+    Verbesserung für den Patienten
+    möglich.
+  targetname: Mehr lesen
+  targetlink: >
+    /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/parkinson
+  targetsubpages: ""
+  _key: thumbnail
+  _uid: thumbnail_1553181901690_1170
+- 
+  headline: Depression
+  picture:
+    - depression-md-xl.jpg
+  hideheadline: ""
+  textarea: >
+    Depression und Burnout gehören schon
+    heute zu den am häufigsten
+    diagnostizierten Erkrankungen in
+    Westeuropa und den USA. Wir betreuen
+    Patienten erfahren und sachgerecht von
+    der Diagnose bis zur passenden Therapie.
+  targetname: Mehr lesen
+  targetlink: >
+    /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/depression
+  targetsubpages: ""
+  _key: thumbnail
+  _uid: thumbnail_1553181915475_1286
+- 
+  headline: ""
+  hideheadline: ""
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: ""
+      headline: ""
+      stretch: ""
+      textopen: ""
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553779547924_7219
+  repeater2: [ ]
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553779539322_7070

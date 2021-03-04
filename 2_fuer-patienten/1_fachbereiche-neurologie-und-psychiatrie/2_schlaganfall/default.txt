@@ -1,0 +1,210 @@
+Title: Schlaganfall
+
+----
+
+Contentelements: 
+
+- 
+  headline: Schlaganfall
+  hideheadline: ""
+  menuhide: ""
+  keyvisual2:
+    - schlaganfall-md-xl.jpg
+  keyvisual3:
+    - schlaganfall-xs-sm.jpg
+  keyvisualsettings: ""
+  text: ""
+  _key: keyvisual
+  _uid: keyvisual_1552402709226_377
+- 
+  headline: Allgemeines
+  hideheadline: 'true'
+  menuhide: ""
+  bgcolor: ""
+  relation: ""
+  repeater1:
+    - 
+      offset: ""
+      color: transparent
+      headline: ""
+      stretch: ""
+      textopen: '**»Schlaganfall – das betrifft nur ältere Menschen.« Oder: »Ich habe so viel Stress, ich bekomme bestimmt einen Schlaganfall!«**  Beide gängigen Vorurteile stimmen nicht so ganz. Dem Schlaganfall liegen meist spezifische Risikofaktoren zugrunde, die oft schon im 4. oder 5. Lebensjahrzehnt beginnen und durch deren Erkennung und Behandlung viele spätere Komplikationen verhindert werden können. Beratung und Aufklärung über Risiken im persönlichen Gespräch sind entscheidend für den Therapieerfolg. **Spezifische Vorsorge und Diagnostik: Bei mind finden Sie für alle diese Bereiche ein eingespieltes Team und qualifizierte Spezialisten.**'
+      textclosed: |
+        Unter »Schlaganfall« versteht man einen »schlagartig« aufgetretenen Ausfall von Körperfunktionen wie Sprache und Motorik, es können aber auch Sehen und Schlucken betroffen sein oder eine halbseitige Gefühlsstörung auftreten. Die Symptome allein verraten nicht, ob es sich um eine Durchblutungsstörung oder um eine Einblutung in das Gehirn handelt. **Daher sollte ein Schlaganfall, der erst 24 Stunden zurückliegt, immer zunächst zu einer Vorstellung im Krankenhaus**, gegebenenfalls mit einer CT-Untersuchung des Gehirns führen.
+        
+        Der »kleine Schlaganfall« (transitorisch ischämische Attacke) dauert meist nur wenige Minuten bis zu einer Stunde und bildet sich dann zurück. Er zeigt aber die selben Symptome und ist häufig Vorbote eines voll ausgeprägten Schlaganfalls. Daher ist auch hier umgehende Diagnostik angezeigt.
+        
+        Trotz aller Fortschritte in der Behandlung akuter Schlaganfälle gilt: **Eine gute und rechtzeitige Vorsorge ist die erfolgsversprechendste Therapie!** Hier möchte Ihnen unser Team gern zur Seite stehen.
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553163693181_9519
+  repeater2:
+    - 
+      picture:
+        - portrait-dr-wagner@2.jpg
+      margintop: 0
+      color: dark
+      _key: profilpic
+      _uid: profilpic_1553163766597_9822
+    - 
+      offset: ""
+      color: dark
+      setelement: setbefore
+      setelementfarbe: transparent
+      obenunten: unten
+      textarea: |
+        **Dr. med. Bert Wagner**
+        Facharzt für Neurologie
+        
+        *Ihr Experte für die
+        Schlaganfallprophylaxe und -nachsorge*
+      btntitle: Zur Person
+      btntarget: '/die-praxis/unser-team#person_1553609764443_6242'
+      test: ""
+      _key: boxsmall
+      _uid: boxsmall_1553163709468_9672
+  repeater3: [ ]
+  _key: customelement
+  _uid: customelement_1553163513753_1373
+- 
+  headline: Prophylaxe
+  hideheadline: ""
+  keyvisual2:
+    - 4515-patientin-hande-lg-xl.jpg
+  keyvisual2mobile:
+    - 4515-patientin-hande-xs-md.jpg
+  keyvisual2_mobile:
+    - 4515-patientin-hande-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553162256229_1539
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: offset
+      color: bright
+      headline: ""
+      stretch: left
+      textopen: |
+        **Vorsorge ist die beste Therapie**
+        
+        **Je mehr Sie über Ihr individuelles Schlaganfallrisiko wissen, desto besser können Sie Ihren Beitrag zu Ihrer Gesundheit leisten.** Und je genauer wir z.B. durch Ultraschalldiagnostik ihre möglichen »Schwachstellen« kennen, desto besser können wir die Risiken überwachen und behandeln.
+      textclosed: |
+        **Auch wenn ein Schlaganfall plötzlich auftritt, bestehen die Voraussetzungen dafür oft schon lange Zeit. Und genau hier setzt die Vorsorge an.** Jede Altersgruppe kann von einem Schlaganfall betroffen sein. Dennoch ist es richtig, dass über 50% der Schlaganfälle Menschen ab 75 Jahren betreffen. Das Lebensalter genauso wie die Vererbung können weder Sie noch wir beeinflussen. Dennoch können wir in jedem Alter dafür sorgen, dass Sie schon einen ersten Schlaganfall vermeiden! Folgende Risikofaktoren gibt es:
+        + Bluthochdruck
+        + Vorhofflimmern
+        + Rauchen
+        + Alkohol
+        + Fettstoffwechselstörungen
+        + Diabetes mellitus
+        + Fehlernährung bei Übergewicht
+        + Bewegungsmangel
+        
+        Wenn auf Sie einige dieser Faktoren zutreffen, ist eine Vorsorgeuntersuchung und Therapie vielleicht sinnvoll. Unsere Spezialisten für Prophylaxe können zum Beispiel mit **modernster Ultraschalltechnologie** (Dopplersonographie) ermitteln, ob die Blutversorgung Ihres Gehirns über die großen Gefäße gesichert ist, oder ob sich durch Ablagerungen bereits Engstellen gebildet haben. Natürlich haben Sie selbst den wichtigsten Teil in der Hand: Werden Sie z.B. zum glücklichen Nichtraucher oder sorgen Sie für ausreichend Bewegung!
+        
+        Wenn Sie bereits einen Schlaganfall erlitten haben, ist die sogenannte **Sekundärprävention** entscheidend, um einen weiteren Schlaganfall zu verhindern.
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553162338996_1869
+  repeater2:
+    - 
+      offset: ""
+      color: dark
+      headline: ""
+      stretch: ""
+      textopen: |
+        »Rund 70% aller Schlaganfälle wären vermeidbar! Wir von mind möchten dazu beitragen, diese Option Stück für Stück real werden zu lassen. Dazu gehört eine frühe Diagnostik und eine langfristig angelegte Präventions-Therapie.«
+        
+        <color><sm><b>Dr. Bert Wagner,</b> Facharzt für Neurologie
+        Ultraschalldiagnostik für die Schlaganfallprophylaxe</sm></color>
+      textclosed: ""
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553162431816_2044
+  _key: twocol
+  _uid: twocol_1553162336623_1764
+- 
+  headline: Therapie
+  hideheadline: ""
+  keyvisual2:
+    - 4948-dr-richter-befund-lg-xl.jpg
+  keyvisual2mobile:
+    - 4948-dr-richter-befund-xs-md.jpg
+  keyvisual2_mobile:
+    - 4192-labor-baumgaertner-xs-md.jpg
+  _key: imagefullwidth
+  _uid: imagefullwidth_1553164243549_1357
+- 
+  bgcolor: ""
+  size: ""
+  space: ""
+  marginbottom: 50
+  repeater1:
+    - 
+      offset: offset
+      color: dark
+      headline: ""
+      stretch: left
+      textopen: |
+        **Individuelle Therapie**
+        
+        **Eine konsequente und nachhaltige Therapie sichert Lebensqualität** – egal, ob Sie bereits einen Schlaganfall hatten, oder ob für Sie eine Präventivtherapie angezeigt ist. Für beide Fälle bietet mind ein breites Spektrum aus unseren beiden Fachbereichen Neurologie und Psychiatrie. Sprechen Sie mit unseren Experten!
+      textclosed: |
+        mind leitet sind von »Medizin individuell« ab. genauso verstehen wir auch die Therapie einer so komplexen Erkrankung wie dem Schlaganfall. **Alle entscheidenden Säulen moderner Medizin und Psychotherapie kommen hier zum Tragen: **
+        
+        + **Medikamentöse Therapie:** Eine individuell fein justierte Medikamenten-Behandlung auf Basis modernster Forschung ist die Grundlage, um darauf Ihr persönliches Behandlungskonzept abzustimmen. Wichtig ist hierbei. z.B. die Blutgerinnung optimal einzustellen. Dies erfolgt von unserer Seite beratend durch Ihren Hausarzt oder Internisten
+        
+        + **Physiotherapie & Ergotherapie:** Beide Methoden leisten  speziell in der Frühphase nach dem Schlaganfall einen wertvollen Beitrag zu Ihrer Mobilität und Lebensqualität. Aktuelle Studien zeigen, dass unabhängig vom Alter jede Stunde mehr an Therapie ein Mehr an Erholung und ein Weniger an Pflegeabhängigkeit bedeuten können.
+        
+        + **Depression:** Viele Patienten erleiden nach Ihrem Schlaganfall zusätzlich eine Depression. Unser interdisziplinäres Team aus Neurologen und Psychiatern hilft Ihnen gerne dabei, diese Folgeerscheinung effektiv anzugehen.
+      pic: [ ]
+      picalt: ""
+      _key: textbox
+      _uid: textbox_1553164365344_1640
+  repeater2:
+    - 
+      headline: Weiterführende Themen
+      offset: ""
+      color: bright
+      stretch: ""
+      eventlist:
+        - 
+          title: Physiotherapie
+          target: '/behandlung#subheadline_1553813480182_1525'
+          _key: menupoints
+          _uid: menupoints_1553519591316_12642
+        - 
+          title: Logopädie
+          target: ""
+          _key: menupoints
+          _uid: menupoints_1553519603771_12690
+        - 
+          title: Behandlung
+          target: /behandlung
+          _key: menupoints
+          _uid: menupoints_1553519618263_12754
+        - 
+          title: Studien
+          target: >
+            /fuer-patienten/fachbereiche-neurologie-und-psychiatrie/ueber-uns
+          _key: menupoints
+          _uid: menupoints_1553519624888_12807
+      _key: menubox
+      _uid: menubox_1553519580180_12578
+  _key: twocol
+  _uid: twocol_1553164362035_1535
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  textbox: '<br><br><br><br>'
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1554241195580_19282

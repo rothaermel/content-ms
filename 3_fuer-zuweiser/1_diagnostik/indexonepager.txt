@@ -1,0 +1,17 @@
+Title: Diagnostik
+
+----
+
+Descriptor: 
+
+----
+
+Phone: 
+
+----
+
+Email: 
+
+----
+
+Menupointsfromchild: true

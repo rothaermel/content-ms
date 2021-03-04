@@ -1,0 +1,113 @@
+Title: Neurologische Untersuchung
+
+----
+
+Contentelements: 
+
+- 
+  headline: Neurologische Untersuchung
+  hideheadline: 'true'
+  hidefromkey: ""
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1553606782367_4094
+- 
+  headline: Neurologische Untersuchung
+  hideheadline: notinmenu
+  hidefromkey: 'true'
+  openelement: ""
+  _key: subheadline
+  _uid: subheadline_1553820798337_11935
+- 
+  headline: Anamnese
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553606786577_4214
+  _key: subheadline
+  _uid: subheadline_1553820870998_12081
+- 
+  title: Anamnese
+  keyvisual:
+    - 3824-rau-therapie-xs-md.jpg
+  keyvisualmobile:
+    - 3824-rau-therapie-lg-xl.jpg
+  keyvisualalttext: Keyvisual ...
+  textbox: 'Am Anfang der neurologischen Untersuchung steht immer ein** ausführliches ärztliches Gespräch (Anamnese)** zu den aktuellen Beschwerden und zur Krankheitsgeschichte des Patienten. Die Anamnese liefert wesentliche diagnostische Hinweise und zugleich Ansatzpunkte für weitere Untersuchungen. In dieser Phase der Untersuchung wird Ihr Neurologe gezielt Fragen stellen, die eine Diagnose überhaupt erst möglich machen. Nach der Anamnese können weitere Diagnoseverfahren beschlossen und erklärt werden.'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553606786577_4214
+- 
+  headline: Sensibilität
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553814617202_9904
+  _key: subheadline
+  _uid: subheadline_1553820906025_12356
+- 
+  title: Sensibilität
+  keyvisual:
+    - 3886-rau-schwinggabel-lg-xl.jpg
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: 'In dieser Phase der neurologischen Untersuchung wird zum Beispiel das Berührungs-, Schmerz- und Temperaturempfinden des Patienten getestet. Ebenso wird das **Vibrationsempfinden** geprüft. Bei der Sensibilitätsprüfung wird Ihr Neurologe möglichst genau bestimmen, auf welches Gebiet des Körpers sich eine festgestellte Störung erstreckt.'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553814617202_9904
+- 
+  headline: 'Motorik & Koordination '
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553814631416_10092
+  _key: subheadline
+  _uid: subheadline_1553821060280_12502
+- 
+  title: 'Motorik & Koordination '
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: '**Beweglichkeit, Feinmotorik und Koordination sind ein weiterer Untersuchungsabschnitt.** Wie gut können Arme und Beine bewegt werden, wie ist die Handschrift? Die passive Beweglichkeit wird ebenso geprüft. Mit dieser Untersuchung kann Ihr Neurologe z.B. eine verminderte Muskelkraft oder eine Muskellähmung erkennen, die wiederum Aufschluss über eine Erkrankung der Nerven gibt. Gang- und Standprüfungen werden ebenfalls unternommen.'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553814631416_10092
+- 
+  headline: Reflexe
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553814652862_10280
+  _key: subheadline
+  _uid: subheadline_1553821077464_12637
+- 
+  title: Reflexe
+  keyvisual:
+    - 3902-rau-reflexhammer-lg-xl.jpg
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: 'Reflexe sind nicht willentlich steuerbare Reaktionen des Nervensystems auf einen Reiz. **Die Prüfung der Reflexe ist ein wichtiger Bestandteil der neurologischen Untersuchung.** Mit Hilfe des Reflex-Hammers kann der Neurologe diese Reflexe auslösen und eventuelle krankhafte Veränderungen feststellen.'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553814652862_10280
+- 
+  headline: Hirnnervenfunktion
+  hideheadline: 'true'
+  hidefromkey: 'true'
+  openelement: accordionfullwidth_1553814671590_10468
+  _key: subheadline
+  _uid: subheadline_1553821102372_12772
+- 
+  title: Hirnnervenfunktion
+  keyvisual: [ ]
+  keyvisualmobile: [ ]
+  keyvisualalttext: Keyvisual ...
+  textbox: 'Bei der **Hirnnervenfunktion** werden zum Beispiel Fähigkeiten wie **Sehen, Riechen, Schmecken und Hören** getestet. Augenbewegungen, Gesichtsmimik, Schlucken und Sprechen werden geprüft. Jeder dieser Tests prüft die Funktionsfähigkeit eines bestimmten Gehirnnervs. Mit dieser Untersuchung kann Ihr Neurologe eine Aussage darüber treffen, ob einer oder mehrere dieser Nerven geschädigt ist.'
+  repeater1: [ ]
+  _key: accordionfullwidth
+  _uid: accordionfullwidth_1553814671590_10468
+- 
+  bgcolor: ""
+  headline: ""
+  checkaccordeon: ""
+  marginleft: ""
+  textbox: ""
+  addextraspace: ""
+  _key: plaintext
+  _uid: plaintext_1553814701318_10668
